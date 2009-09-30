@@ -89,6 +89,15 @@
 	\minitabular{\raggedleft\textbf{\small +11:} & {\small #6}}
 	\minitabular{\raggedleft\textbf{\small +16:} &{\small #7}}
 }
+\newcommand{\metafeat}[7]{
+	\noindent\minitabular{\multicolumn{2}{l}{\parbox{3in}{\textbf{#1}}}}
+	\minitabular{\multicolumn{2}{l}{\parbox{3in}{\small #2}}}
+	\minitabular{\raggedleft\textbf{\small \textbf{0:}}& {\small #3}}
+	\minitabular{\raggedleft\textbf{\small 1:} & {\small #4}}
+	\minitabular{\raggedleft\textbf{\small 3:} & {\small #5}}
+	\minitabular{\raggedleft\textbf{\small 6:} & {\small #6}}
+	\minitabular{\raggedleft\textbf{\small 9:} &{\small #7}}
+}
 \newcommand{\skillfeat}[8]{
 	\noindent\minitabular{\multicolumn{2}{l}{\parbox{3in}{\textbf{#1}}}}
 	\minitabular{\multicolumn{2}{l}{\parbox{3in}{\small #2}}}
@@ -150,36 +159,43 @@
 
 \tableofcontents
 
+%%%%%%% Basics
+\chapter{The Basics}
+\input{basics}
+
+%%%%%%% Creating a Character
+\chapter{Creating a Character}
+\input{creation}
+\input{backgrounds}
+
 %%%%%%% Races
 \chapter{Races}
-\input{oddraces}
-
-\chapter{Alignment}
-\input{necrointro}
-\input{alignment}
+\input{races}
 
 
 %%%%%%% Base Classes
 \chapter{Character Base Classes}
-\section{NPC Classes}
-\input{baseclasses/adept}
-\input{baseclasses/warrior}
 
 \section{PC Classes}
 \input{baseclasses/assassin}
 \input{baseclasses/barbarian}
+\input{baseclasses/curator}
 \input{baseclasses/elementalist}
 \input{baseclasses/fighter}
 \input{baseclasses/firemage}
 \input{baseclasses/jester}
+\input{baseclasses/kantianpaladin}
 \input{baseclasses/knight}
 \input{baseclasses/marshal}
+%\input{baseclasses/masterofwrath}%
 \input{baseclasses/monk}
+%\input{baseclasses/ranger}%
 \input{baseclasses/samurai}
-\input{baseclasses/spiritshaman}
+\input{baseclasses/shadowwarrior}
 \input{baseclasses/summoner}
 \input{baseclasses/thiefacrobat}
-
+%\input{unfinished/thaumaturge}
+\input{baseclasses/spherelock}
 
 \section{Monster Base Classes}
 \input{baseclasses/fiendishbrute}
@@ -187,28 +203,36 @@
 \input{baseclasses/truefiend}
 \input{baseclasses/genie}
 
+\section{NPC Classes}
+\input{baseclasses/adept}
+\input{baseclasses/warrior}
+
 \input{multiclassing}
 
 
 %%%%%%% Feats
 \chapter{Feats}
-\input{backgrounds}
-\input{feats}
+\input{combatfeats}
+\input{skillfeats}
+\input{magicfeats}
 \input{fiendfeats}
 \input{necromancerfeats}
 
+
 %%%%%%% Prestige Classes
 \chapter{Prestige Classes}
-\input{prcintro}
 
 \section{Spellcasting}
+\input{prestige/arcanearcher}
 \input{prestige/barrister}
+\input{prestige/bladesinger}
 \input{prestige/bonebladereaper}
 \input{prestige/bonebladereaper_revised}
 \input{prestige/celestialbeacon}
 \input{prestige/corpselight}
 \input{prestige/deathking}
 \input{prestige/defiler}
+\input{prestige/eldritchknight}
 \input{prestige/heartlessmage}
 \input{prestige/hellwalker}
 \input{prestige/initiateofblacktower}
@@ -217,6 +241,7 @@
 \input{prestige/masterofnecromanticmysteries}
 \input{prestige/masterofsnakemountain}
 \input{prestige/ninjaofgax}
+\input{prestige/ogremage}
 \input{prestige/pumpkinking}
 \input{prestige/seekerofthelosttraditions}
 \input{prestige/seeroftempest}
@@ -229,14 +254,24 @@
 \input{prestige/widowqueen}
 
 \section{Martial}
+%\input{prestige/berzerker}%
+\input{prestige/bignob}
+%\input{prestige/bladefighter}%
 \input{prestige/boatman}
 \input{prestige/bonerider}
 \input{prestige/deathknight}
 \input{prestige/demonsamurai}
+\input{prestige/disciplespiritwave}
+\input{prestige/dragondisciple}
 \input{prestige/dragonlancer}
+\input{prestige/drunkenmaster}
 \input{prestige/dungeonveteran}
 \input{prestige/elothar}
+\input{prestige/gentlemonk}
+%\input{prestige/invisibleblade}%
 \input{prestige/legendarystrategist}
+\input{prestige/meteorninja}
+\input{prestige/tigermonk}
 
 \section{Racial}
 \input{prestige/halfdragon}
@@ -252,105 +287,33 @@
 
 %%%%%%% Equipment
 \chapter{Money and Equipment}
-\vspace*{-36pt}
+%\vspace*{-36pt}
 \begin{flushright}\quot{``A warrior is measured by his sword."} \end{flushright}
 
 \input{weapons}
 \input{armor}
-\input{economics}
 
 
 %%%%%%% Combat
 \chapter{Combat}
 
-\input{RoWintro}
+\input{combat}
 \input{advcombat}
 \input{masscombat}
-\input{worldwar}
-\input{logistics}
-
 
 \chapter{Magic}
 
-\input{magic}
-\input{necromaticspells}
-\input{fiendishtaint}
+\input{spells}
+\input{spheres}
 \input{fiendspheres}
+\input{otherspheres}
 \input{fiendishrules}
-
-
-
-\chapter{Adventuring}
-\input{social}
-\input{underdark}
-\input{writings}
-\input{highadventure}
-\input{ruleinhell}
-\input{dungeons}
-\input{dungeonsofnote}
 
 
 \chapter{Monsters}
 \input{undead}
-\input{necromaticlocations}
 \input{undeadmonsters}
 
-
-% Okay, we're switching to appendices now.
-\appendix
-
-%%%%%%% Appendix 1: Book of Gears
-\chapter{The Book of Gears}
-\input{bookofgears}
-
-%%%%%%% Appendix 2: Community created material/
-%some items commented out due to being works in progress -Aktariel
-\chapter{Community Material}
-\input{community}
-
-\section{Classes}
-%\input{community/classes/pending/curator}
-\input{community/classes/kantianpaladin}
-%\input{community/classes/pending/masterofwrath}
-%\input{community/classes/pending/ranger}
-\input{community/classes/shadowwarrior}
-\input{community/classes/sohei}
-\input{community/classes/spherelock}
-%\input{community/classes/pending/thaumaturge}
-
-\section{Prestige Classes}
-\input{community/prestige/arcanearcher}
-\input{community/prestige/arcanestrategist}
-%\input{community/prestige/pending/berzerker}
-\input{community/prestige/bignob}
-%\input{community/prestige/pending/bladefighter}
-\input{community/prestige/bladesinger}
-\input{community/prestige/crusaderelemental}
-\input{community/prestige/defenderofwoods}
-\input{community/prestige/disciplespiritwave}
-\input{community/prestige/dragondisciple}
-\input{community/prestige/drunkenmaster}
-\input{community/prestige/eldritchknight}
-\input{community/prestige/enlighteneddisciple}
-\input{community/prestige/gentlemonk}
-\input{community/prestige/golemknight}
-\input{community/prestige/holycrusader}
-%\input{community/prestige/pending/invisibleblade}
-\input{community/prestige/lunarknight}
-\input{community/prestige/maelstrom}
-\input{community/prestige/meteorninja}
-\input{community/prestige/ogremage}
-\input{community/prestige/tigermonk}
-\section{Feats}
-%\input{community/feats/pending/combatfeats}
-\input{community/feats/skillfeats}
-\section{Skills}
-\input{community/skillproblems}
-%\section{Magic Items}
-%When I get around to formatting these and making a \newcommand that can handle them all, then
-%this will be added. - Aktariel
-%\input{community/items/25videogame}
-% Credits
-\input{community/credits}
+\include{credits}
 
 \end{document}
