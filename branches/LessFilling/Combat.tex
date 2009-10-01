@@ -22,16 +22,23 @@ An attack roll represents your attempt to strike your opponent on your turn in a
 
 \subsection{Attack Bonus}
 
-Your attack bonus with a melee weapon is your Base attack bonus + Strength modifier + size modifier. With a ranged weapon, your attack bonus is your Base attack bonus + Dexterity modifier + size modifier + range penalty.
+Your attack bonus with a melee weapon is your Base attack bonus + Strength modifier + size modifier. With a ranged weapon, your attack bonus is your Base attack bonus + Dexterity modifier + size modifier + range penalty. See the table below for size modifiers.
 
-%Need to make this table....
-%Table: Size Modifiers	   
-%Size	Size Modifier	Size	Size Modifier	   
-%Colossal	–8	Small	+1	   
-%Gargantuan	–4	Tiny	+2	   
-%Huge	–2	Diminutive	+4	   
-%Large	–1	Fine	+8	   
-%Medium	+0			 
+\vspace*{10pt}
+
+\ability{Base Attack Bonus:}A base attack bonus is an attack roll bonus derived from character class and level or creature type and Hit Dice (or combinations thereof). Base attack bonuses increase at different rates for different character classes and creature types. A second attack is gained when a base attack bonus reaches +6, a third with a base attack bonus of +11 or higher, and a fourth with a base attack bonus of +16 or higher. Base attack bonuses gained from different sources, such as when a character is a multiclass character, stack. 
+
+\vspace*{10pt}
+	 
+\begin{tabular}[c]{c|c||c|c}
+\multicolumn{4}{c}{\textbf{Table: Size Modifiers}} \\
+Size & Size Modifier & Size & Size Modifier \\ \hline
+Colossal & \textendash8 & Small & +1 \\
+Gargantuan & \textendash4 & Tiny & +2 \\
+Huge & \textendash2 & Diminutive & +4	\\
+Large & \textendash1 & Fine & +8 \\
+Medium & +0	& & \\
+\end{tabular}
 
 \subsection{Damage}
 When your attack succeeds, you deal damage. The type of weapon used determines the amount of damage you deal. Effects that modify weapon damage apply to unarmed strikes and the natural physical attack forms of creatures. Damage reduces a target's current hit points.
@@ -140,7 +147,7 @@ Sometimes a combatant in a melee lets her guard down. In this case, combatants n
 
 \ability{Performing a Distracting Act:}Some actions, when performed in a threatened square, provoke attacks of opportunity as you divert your attention from the battle. Table: Actions in Combat notes many of the actions that provoke attacks of opportunity. Remember that even actions that normally provoke attacks of opportunity may have exceptions to this rule.
 
-\ability{Making an Attack of Opportunity:}An attack of opportunity is a single melee attack, and you can only make one per round. You don't have to make an attack of opportunity if you don't want to. An experienced character gets additional regular melee attacks (by using the full attack action), but at a lower attack bonus. You make your attack of opportunity, however, at your normal attack bonus—even if you've already attacked in the round. An attack of opportunity “interrupts” the normal flow of actions in the round. If an attack of opportunity is provoked, immediately resolve the attack of opportunity, then continue with the next character's turn (or complete the current turn, if the attack of opportunity was provoked in the midst of a character's turn).
+\ability{Making an Attack of Opportunity:}An attack of opportunity is a single melee attack, and you can only make one per round. You don't have to make an attack of opportunity if you don't want to. An experienced character gets additional regular melee attacks (by using the full attack action), but at a lower attack bonus. You make your attack of opportunity, however, at your normal attack bonus—even if you've already attacked in the round. An attack of opportunity ``interrupts'' the normal flow of actions in the round. If an attack of opportunity is provoked, immediately resolve the attack of opportunity, then continue with the next character's turn (or complete the current turn, if the attack of opportunity was provoked in the midst of a character's turn).
 
 \ability{Number of Attacks of Opportunity:}You can make a number of attacks of opportunity equal to the number of attacks granted by your Base Attack Bonus in a round. A character with less than a BAB of +6 can make 1 AoO each round, a character with a BAB of +6 can make 2 AoOs each round, a character with a BAB of +11 can make 3, and a character with +16 can make 4. This ability does not let you make more than one attack for a given opportunity, but if the same opponent provokes two attacks of opportunity from you, you could make two separate attacks of opportunity (since each one represents a different opportunity). Moving out of more than one square threatened by the same opponent in the same round doesn't count as more than one opportunity for that opponent. All these attacks are at your full normal attack bonus.
 
@@ -328,7 +335,7 @@ A full-round action requires an entire round to complete. Thus, it can't be coup
 
 \subsubsection{Full Attack}
 
-If you get more than one attack per round because your base attack bonus is high enough, because you fight with two weapons or a double weapon or for some special reason you must use a full-round action to get your additional attacks. You do not need to specify the targets of your attacks ahead of time. You can see how the earlier attacks turn out before assigning the later ones. The only movement you can take during a full attack is a 5-foot step. You may take the step before, after, or between your attacks. If you get multiple attacks because your base attack bonus is high enough, you must make the attacks in order from highest bonus to lowest. If you are using two weapons, you can strike with either weapon first. If you are using a double weapon, you can strike with either part of the weapon first.
+If you get more than one attack per round because your base attack bonus is high enough, because you fight with two weapons or a double weapon or for some special reason you must use a full-round action to get your additional attacks. You do not need to specify the targets of your attacks ahead of time. You can see how the earlier attacks turn out before assigning the later ones. The only movement you can take during a full attack is a 5-foot step. You may take the step before, after, or between your attacks. If you get multiple attacks because your base attack bonus is high enough, you may make the attacks in any order you want. All extra attacks derived from base attack bonus are made at a \textendash5 penalty. If you are using two weapons, you can strike with either weapon first. If you are using a double weapon, you can strike with either part of the weapon first.
 
 \vspace*{10pt}
 
@@ -380,7 +387,7 @@ A run represents a speed of about 12 miles per hour for an unencumbered human.
 
 In some situations, your movement may be so hampered that you don't have sufficient speed even to move 5 feet (a single square). In such a case, you may spend a full-round action to move 5 feet (1 square) in any direction, even diagonally. Even though this looks like a 5-foot step, it's not, and thus it provokes attacks of opportunity normally.
 
-\section{Swift Actions}
+\subsection{Swift Actions}
 
 A swift action consumes a very small amount of time, but represents a larger expenditure of effort and energy than a free action. You can perform one swift action per turn without affecting your ability to perform other actions. In that regard, a swift action is like a free action. However, you can perform only a single swift action per turn, regardless of what other actions you take. You can take a swift action any time you would normally be allowed to take a free action. Swift actions usually involve spellcasting or the activation of magic items; many characters (especially those who don't cast spells) never have an opportunity to take a swift action.
 
@@ -388,13 +395,13 @@ Casting a quickened spell is a swift action. In addition, casting any spell with
 
 Casting a spell with a casting time of 1 swift action does not provoke attacks of opportunity.
 
-\section{Immediate Actions}
+\subsection{Immediate Actions}
 
 Much like a swift action, an immediate action consumes a very small amount of time, but represents a larger expenditure of effort and energy than a free action. However, unlike a swift action, an immediate action can be performed at any time — even if it's not your turn. Casting feather fall is an immediate action, since the spell can be cast at any time.
 
 Using an immediate action on your turn is the same as using a swift action, and counts as your swift action for that turn. You cannot use another immediate action or a swift action until after your next turn if you have used an immediate action when it is not currently your turn (effectively, using an immediate action before your turn is equivalent to using your swift action for the coming turn). You also cannot use an immediate action if you are flat-footed. 
 
-\section{Free Actions}
+\subsection{Free Actions}
 
 Free actions don't take any time at all, though there may be limits to the number of free actions you can perform in a turn. Free actions rarely incur attacks of opportunity. Some common free actions are described below.
 
