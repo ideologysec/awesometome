@@ -1,15 +1,10 @@
 SOURCES = 
 	SOURCES = advcombat.tex \
-	alignment.tex \
 	alt.traits.tex \
 	armor.tex \
 	backgrounds.tex \
 	baseclass.tex \
-	bookofgears.tex \
 	cover.tex \
-	dungeonsofnote.tex \
-	dungeons.tex \
-	economics.tex \
 	entire.tex \
 	feats.tex \
 	FiendClasses.tex \
@@ -17,28 +12,20 @@ SOURCES =
 	fiendishrules.tex \
 	fiendishtaint.tex \
 	fiendspheres.tex \
-	highadventure.tex \
-	logistics.tex \
 	magic.tex \
 	masscombat.tex \
 	multiclassing.tex \
 	necrointro.tex \
 	necromancerfeats.tex \
-	necromaticlocations.tex \
 	necromaticspells.tex \
-	oddraces.tex \
+	otherspheres.tex \
 	prcintro.tex \
-	RoWintro.tex \
-	ruleinhell.tex \
-	social.tex \
-	total.tex \
 	undeadmonsters.tex \
 	undead.tex \
 	underdark.tex \
 	weapons.tex \
 	worldwar.tex \
 	wrapper.tex \
-	writings.tex \
 	baseclasses/adept.tex \
 	baseclasses/assassin.tex \
 	baseclasses/barbarian.tex \
@@ -57,38 +44,36 @@ SOURCES =
 	baseclasses/thiefacrobat.tex \
 	baseclasses/truefiend.tex \
 	baseclasses/warrior.tex \
-	community/feats/skillfeats.tex \
+	skillfeats.tex \
 	community/feats/pending/combatfeats.tex \
 	community/skillproblems.tex \
-	community/classes/pending/curator.tex \
-	community/classes/kantianpaladin.tex \
-	community/classes/pending/masterofwrath.tex \
-	community/classes/pending/ranger.tex \
-	community/classes/shadowwarrior.tex \
-	community/classes/sohei.tex \
-	community/classes/spherelock.tex \
-	community/prestige/arcanearcher.tex \
-	community/prestige/arcanestrategist.tex \
-	community/prestige/pending/berzerker.tex \
-	community/prestige/bignob.tex \
-	community/prestige/pending/bladefighter.tex \
-	community/prestige/bladesinger.tex \
-	community/prestige/crusaderelemental.tex \
-	community/prestige/defenderofwoods.tex \
-	community/prestige/disciplespiritwave.tex \
-	community/prestige/dragondisciple.tex \
-	community/prestige/drunkenmaster.tex \
-	community/prestige/eldritchknight.tex \
-	community/prestige/enlighteneddisciple.tex \
-	community/prestige/gentlemonk.tex \
-	community/prestige/golemknight.tex \
-	community/prestige/holycrusader.tex \
-	community/prestige/pending/invisibleblade.tex \
-	community/prestige/lunarknight.tex \
-	community/prestige/maelstrom.tex \
-	community/prestige/meteorninja.tex \
-	community/prestige/ogremage.tex \
-	community/prestige/tigermonk.tex \
+	baseclasses/curator.tex \
+	baseclasses/kantianpaladin.tex \
+	baseclasses/shadowwarrior.tex \
+	baseclasses/sohei.tex \
+	baseclasses/spherelock.tex \
+	prestige/arcanearcher.tex \
+	prestige/arcanestrategist.tex \
+	prestige/pending/berzerker.tex \
+	prestige/bignob.tex \
+	prestige/pending/bladefighter.tex \
+	prestige/bladesinger.tex \
+	prestige/crusaderelemental.tex \
+	prestige/defenderofwoods.tex \
+	prestige/disciplespiritwave.tex \
+	prestige/dragondisciple.tex \
+	prestige/drunkenmaster.tex \
+	prestige/eldritchknight.tex \
+	prestige/enlighteneddisciple.tex \
+	prestige/gentlemonk.tex \
+	prestige/golemknight.tex \
+	prestige/holycrusader.tex \
+	prestige/pending/invisibleblade.tex \
+	prestige/lunarknight.tex \
+	prestige/maelstrom.tex \
+	prestige/meteorninja.tex \
+	prestige/ogremage.tex \
+	prestige/tigermonk.tex \
 	monsters/simulacrum.tex \
 	prestige/barrister.tex \
 	prestige/boatman.tex \
