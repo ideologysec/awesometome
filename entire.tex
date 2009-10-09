@@ -90,7 +90,7 @@
 	\minitabular{\raggedleft\textbf{\small +11:} & {\small #6}}
 	\minitabular{\raggedleft\textbf{\small +16:} &{\small #7}}
 }
-\newcommand{\metafeat}[7]{
+\newcommand{\magicfeat}[7]{
 	\noindent\minitabular{\multicolumn{2}{l}{\parbox{3in}{\textbf{#1}}}}
 	\minitabular{\multicolumn{2}{l}{\parbox{3in}{\small #2}}}
 	\minitabular{\raggedleft\textbf{\small \textbf{0:}}& {\small #3}}
@@ -109,7 +109,10 @@
 	\minitabular{\raggedleft\textbf{\small 14:} &{\small #7}}
 	\minitabular{\raggedleft\textbf{\small 19:} &{\small #8}}
 }
-
+\newcommand{\metafeat}[2]{
+  \noindent{\featname{#1}}
+  \noindent{\textbf{Benefit:}{#2}}
+}
 \newcommand{\boxit}[1]{\frame{\parbox{\textwidth}{#1}}}
 
 % A new box command -- the first argument is the box's header, the second the 
@@ -181,6 +184,7 @@
 \section{PC Classes}
 \input{baseclasses/assassin}
 \input{baseclasses/barbarian}
+%\input{baseclasses/pending/bard}
 \input{baseclasses/curator}
 \input{baseclasses/elementalist}
 \input{baseclasses/fighter}
@@ -191,14 +195,18 @@
 \input{baseclasses/marshal}
 %\input{baseclasses/pending/masterofwrath}%
 \input{baseclasses/monk}
+%\input{baseclasses/pending/paladin}
 %\input{baseclasses/pending/ranger}%
 \input{baseclasses/samurai}
 \input{baseclasses/shadowwarrior}
+%\input{baseclasses/pending/snowscaper}
 \input{baseclasses/sohei}
 \input{baseclasses/summoner}
 \input{baseclasses/thiefacrobat}
 \input{baseclasses/pending/thaumaturge}
 \input{baseclasses/spherelock}
+%\input{baseclasses/pending/warmage}
+%\input{baseclasses/pending/witch}
 
 \section{Monster Base Classes}
 \input{baseclasses/fiendishbrute}
@@ -218,6 +226,7 @@
 \input{combatfeats}
 \input{skillfeats}
 \input{magicfeats}
+\input{metamagicfeats}
 \input{fiendfeats}
 \input{necromancerfeats}
 
