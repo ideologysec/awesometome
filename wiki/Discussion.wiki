@@ -1,0 +1,14 @@
+#labels Phase-Design,Featured
+#Just a discussion page so we can talk with each other
+
+= Discussion =
+
+*Utterfail:* Considering that the only place we've been communicating is on The Gaming Den but the code is hosted here, I thought it would be nice to have a spot we could comment on things but not bother TGD with our mundane talk.  In any event, I've decided that since you are for all intents an purposes converting to the format I wanted that I would stop working on my fork and just start making material for you to review and incorporate into the main document.  It'll be simple enough to cut out the fluff and print it once all the SRD material and whatnot is done. 
+
+
+#= Details =
+#
+#Add your content here.  Format your content with:
+#  * Text in *bold* or _italic_
+#  * Headings, paragraphs, and lists
+#  * Automatic links to other wiki pages
