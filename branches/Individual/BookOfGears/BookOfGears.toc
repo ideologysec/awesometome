@@ -1,0 +1,74 @@
+\contentsline {chapter}{\numberline {1}Character Advancement: Power and Wealth}{6}{chapter.1}
+\contentsline {section}{\numberline {1.1}XP: Beer Me.}{6}{section.1.1}
+\contentsline {section}{\numberline {1.2}Reach for the Stars: Character Advancement}{7}{section.1.2}
+\contentsline {subsubsection}{Wealth By Level Has Got to Go.}{8}{section*.3}
+\contentsline {subsubsection}{Encounter XP Has Got to Go.}{8}{section*.4}
+\contentsline {subsubsection}{A Little Note on XP Costs}{8}{section*.5}
+\contentsline {section}{\numberline {1.3}Strategies of Advancement}{8}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Steady State 1: Serial Heroism}{9}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Steady State 2: Trophy Hunting}{9}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Rapid Advancement: Level a Session}{10}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}Attenuating Advancement: Diminished Returns.}{10}{subsection.1.3.4}
+\contentsline {chapter}{\numberline {2}The Manual of Making Things}{12}{chapter.2}
+\contentsline {section}{\numberline {2.1}Why a Revision to the Crafting Rules?}{12}{section.2.1}
+\contentsline {section}{\numberline {2.2}The Craft Skill}{13}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Subskills: Breaking Things Down}{13}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Using Craft}{14}{subsection.2.2.2}
+\contentsline {subsubsection}{Mastercraft}{14}{section*.6}
+\contentsline {subsection}{\numberline {2.2.3}Crafting Feats}{14}{subsection.2.2.3}
+\contentsline {chapter}{\numberline {3}Dangerous Locations: When the Floor has a CR}{17}{chapter.3}
+\contentsline {section}{\numberline {3.1}Location CRs: Quality and Quantity}{17}{section.3.1}
+\contentsline {section}{\numberline {3.2}WWMD? Disabling Traps.}{18}{section.3.2}
+\contentsline {section}{\numberline {3.3}I \emph {live} here: Setting off Traps}{18}{section.3.3}
+\contentsline {section}{\numberline {3.4}Facing the Architect: The CR of Locations}{20}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Structuring Encounters in a Day}{20}{subsection.3.4.1}
+\contentsline {chapter}{\numberline {4}Playing the Game}{22}{chapter.4}
+\contentsline {section}{\numberline {4.1}What's that Noise?! Playing at Low Level}{22}{section.4.1}
+\contentsline {section}{\numberline {4.2}The Rigors of Command: Playing at High Levels}{22}{section.4.2}
+\contentsline {chapter}{\numberline {5}Magic}{23}{chapter.5}
+\contentsline {section}{\numberline {5.1}Illusion Magic: I Don't Believe This Crap}{23}{section.5.1}
+\contentsline {chapter}{\numberline {6}Magic Items: Swag That You Brag About}{25}{chapter.6}
+\contentsline {section}{\numberline {6.1}The Core of Magic Item Design: Don't Do It Like Diablo}{25}{section.6.1}
+\contentsline {section}{\numberline {6.2}Magic Items with Class(ifications)}{25}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Activation vs. Constant}{26}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Ownership is a Privilege, Not a Right}{26}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Wanna Take Some Body Slots?}{27}{subsection.6.2.3}
+\contentsline {section}{\numberline {6.3}Magic Item Creation}{28}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Building a Better Magic Item: the Minor Magic Item}{28}{subsection.6.3.1}
+\contentsline {subsubsection}{Building a Better Magic Item: the Magic Weapon}{29}{section*.7}
+\contentsline {subsubsection}{Magic Ammunition}{31}{section*.8}
+\contentsline {subsubsection}{Magic Armor, Clothing, and Accessories}{31}{section*.9}
+\contentsline {subsubsection}{Magic Rings}{32}{section*.10}
+\contentsline {subsubsection}{Constant Miscellaneous Magic Objects}{32}{section*.11}
+\contentsline {subsubsection}{Building a Better Magic Item: Intelligent Items}{32}{section*.12}
+\contentsline {subsection}{\numberline {6.3.2}The Appearance of Magic Items}{33}{subsection.6.3.2}
+\contentsline {subsubsection}{Iconic Forms}{33}{section*.13}
+\contentsline {subsection}{\numberline {6.3.3}Disposing of Magic Items}{33}{subsection.6.3.3}
+\contentsline {chapter}{\numberline {7}Treasure and the World}{34}{chapter.7}
+\contentsline {section}{\numberline {7.1}Finding Treasure}{34}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Books}{34}{subsection.7.1.1}
+\contentsline {section}{\numberline {7.2}The Three (or so) Economies}{37}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}The Turnip Economy}{37}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}The Gold Economy}{38}{subsection.7.2.2}
+\contentsline {subsection}{\numberline {7.2.3}The Wish Economy}{39}{subsection.7.2.3}
+\contentsline {subsection}{\numberline {7.2.4}Tamerlain's Economy: The Murderocracy}{39}{subsection.7.2.4}
+\contentsline {subsection}{\numberline {7.2.5}Beelzebub's Economy: The Trade in Favors}{40}{subsection.7.2.5}
+\contentsline {chapter}{\numberline {8}Created Monsters: Forged and Bred}{41}{chapter.8}
+\contentsline {section}{\numberline {8.1}Vermin: Remnants of a Fallen Empire}{41}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Who made the Vermin?}{42}{subsection.8.1.1}
+\contentsline {subsection}{\numberline {8.1.2}Vermin Alchemy}{42}{subsection.8.1.2}
+\contentsline {section}{\numberline {8.2}Constructs: Durability at a Price}{43}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Controlling Constructs: Robot Armies and Statuary Servants}{43}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}Specific Constructs Under the New Rules}{44}{subsection.8.2.2}
+\contentsline {subsubsection}{Simulacrum}{44}{section*.14}
+\contentsline {section}{\numberline {8.3}Denizens of the Planes of Law}{45}{section.8.3}
+\contentsline {subsection}{\numberline {8.3.1}Modrons: Singularity of Purpose}{45}{subsection.8.3.1}
+\contentsline {subsection}{\numberline {8.3.2}Inevitables: Enforcing Natural Law}{46}{subsection.8.3.2}
+\contentsline {subsection}{\numberline {8.3.3}Formians: In Many, One}{46}{subsection.8.3.3}
+\contentsline {chapter}{\numberline {9}Mechanics with Class}{48}{chapter.9}
+\contentsline {chapter}{\numberline {10}Mechanics with Prestige}{49}{chapter.10}
+\contentsline {section}{\numberline {10.1}Golem-Knight of Mechanus}{49}{section.10.1}
+\contentsline {chapter}{\numberline {11}High Adventure on the Cordant Planes}{52}{chapter.11}
+\contentsline {section}{\numberline {11.1}High Adventure in... Mechanus!}{52}{section.11.1}
+\contentsline {section}{\numberline {11.2}High Adventure in... The Outlands!}{52}{section.11.2}
+\contentsline {section}{\numberline {11.3}High Adventure in... Limbo!}{52}{section.11.3}

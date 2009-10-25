@@ -1,0 +1,181 @@
+\chapter{The Manual of Making Things}
+
+\section{Why a Revision to the Crafting Rules?}
+
+\desc{An overhaul to the Craft rules may sound fairly unbalancing, as the current Craft rules were created to prevent characters from making a lot of money and potentially destabilizing their games with an influx of magic items. Unfortunately, like Level Allowance, the heavy nerfing to Crafting resulted in a lot of characters simply becoming unviable, a lot of very dumb things happening all around, and it still doesn't actually stop characters from breaking the game if they really want to. If the party is made out of Elves, they can simply set a single skill rank on fire and announce that they're going to spend 100 years farming, making trained Profession (Farmer) checks every week. That'll get them about 6 gp a week for the next 5,200 weeks – for a total of 31,200 gp at first level before they even start adventuring. And as elves, they can honestly just spend 200 years farming or spend some real skill ranks on that to get even more money.}
+
+\desc{If the DM is willing to simply let players roll dice, have downtime, and purchase magic items of unlimited power, the game is already broken on first principles at first level using the PHB alone. If the DM wants to keep sanity going \emph{at all}, then something in that equation is going to have to go. Probably everything in that equation should go. As discussed in the Dungeonomicon, there is an inherent limit to what players could reasonably be expected to be able to purchase with pieces of gold, so to a very real extent crafting for money is simply multiplying the amount of low-level equipment you have – it doesn't particularly get you more powerful equipment. And of course there's no reason for players to be able to do all of this 9 to 5 working without having on-camera adventures. An adventure where you are running a silk factory and will make a bunch of money as soon as you can stop the goblin syndicate from extorting all your profits is pretty much the same as the adventure where you run off into a dungeon, fight the goblins, and take the money they stole from the silk merchants home in a sack.}
+
+\noindent \desc{So the nerfs on Crafting just aren't necessary. But what actually needs to change?}
+
+\vspace{6pt}
+
+\listone
+	\bolditem{Valuable Raw Materials Aren't Valuable:}{This is a part of the rules that makes me cry. Since the amount of value you make each day is based on the \textit{difficulty} of working the material and not on the \textit{value} of said material, there is no way for a goldsmith to stay in business. Gold is very easy to work and therefore the DC to work it is very low, and therefore a goldsmith makes very little in the way of finished product each week. A five pound gold candle holder is roughly four ounces and fits into the palm of your hand, but it'll take a master goldsmith (+10 Craft Bonus) almost a year to finish one (500 gp value, at DC 5 = 50 weeks).}
+	\bolditem{The Costs of Materials are WHAT?}{Remember that five pound gold candle holder? It's worth 500 gp and therefore requires 167 gp worth of materials to make it. But it's worth 250 gp just as a lump of gold. So you can buy things as raw materials and sell them as trade goods and make \textit{lots of money}. The reverse happens when you make complex or finely worked items. A masterwork sword is made out of pretty much the same materials as a normal sword and is much more expensive because it's better made. But because the higher quality crafting will make it sell for more down the line, the cost of the materials goes up by a 100 gp. Where does that money go? What are you getting for 2 pounds of gold? Sure, maybe you get some better coal or something, but really, that doesn't even begin to cover it.}
+	\bolditem{Field Fortifications Cannot Happen:}{Even the simplest of traps (such as a bucket with some acid in it balanced on a partially open door) has a cost that is very high -- in the hundreds of gp. That means even the most gifted craftsman is going to take weeks to boobytrap a room or lay down some field fortifications. When longbowmen want to hammer some stakes into the ground to protect themselves from the knight stampede that's going to come when the battle starts, the Craft rules essentially tell them that they can't do it. Which for those of us who have seen Henry V, seems unlikely.}
+	\bolditem{Risky and Illegal Trades are Pointless:}{Some products are expensive because producing them is risky (poison, flower arrangements from the Bane Mires). Some products are expensive because their production and sale is in some manner restricted by the authorities (shrunken dwarf heads, disrespectful puppets of the king). In the real world, people produce these things because they can charge inflated prices because of the risk. It's a gamble, where sometimes you make big money and sometimes you get killed by hydras or agents of King Ronard. But with craft times directly dependent upon resale value, these crafts are gambles where sometimes you make the same amount of money you would have making night stands, and sometimes you get killed by your own poison or Clerics of Torm.}
+\end{list}
+\vspace{6pt}
+
+\noindent And with that, here's how we propose to fix this.
+
+\section{The Craft Skill}
+
+\desc{Having multiple Craft skills that each require an independent investment of skill points put an illusory emphasis on the crafting system that is roughly equivalent to what you'd expect from the Rogue's \emph{entire non-combat contribution}. Making a system that actually does have that sort of impact -- or even enough to justify multiple sets of skill point investment -- is just unworkable, so we have to go with the alternative: unify everything under a single Craft skill, and have subdivisions of that skill not cost anything in themselves.}
+
+\subsection{Subskills: Breaking Things Down}
+
+\desc{On the other hand, we do definitely want to have some distinction between making different kinds of things. That was a lot of the point behind the original subskill system, and we're actually okay with there being a difference between low-level people who are good at blacksmithing versus people who are good at tailoring, just like we prefer to have people who are good at singing but can't play a piano nearly as well.}
+
+\desc{Your number of ranks in the Craft skill directly affects how good you are at the various Craft checks, and it \emph{also} affects how many areas of item creation your character is skilled in. If you have a particular subskill you can use your full Craft ranks on any Craft checks involving that subskill. You can \emph{also} combine the checks to make a more complex item which involves multiple Craft checks if you have all the pertinent subskills. Otherwise, you add only half your Craft ranks and have to perform any checks individually. You can also qualify for anything which has a particular subskill of Craft as a requirement; for instance, a PrC which required Craft (weaponsmithing) could only be taken if you had the Blacksmithing subskill and enough Craft ranks.}
+
+\noindent There are, of course, a finite number of subskills you can meaningfully take:
+\listone
+    \item \ability{Alchemy --}{Basic alteration of chemical materials; obscure liquids, metallurgy, pretty much anything that would fall under the heading of ``chemistry'' or ``materials science'' today.}
+    \item \ability{Blacksmithing --}{Metal weapons and armor, utilitarian metal objects. This covers the working of iron, but it also covers other metals which are valuable because they're durable rather than pretty.}
+    \item \ability{Ceramics --}{Hard and brittle stuff that isn't quite rock. Pretty much anything made of clay or glass would use this subskill.}
+    \item \ability{Jewelry --}{Gemstones and soft metals. Basically, if it's used just because it's pretty, it probably falls under here.}
+    \item \ability{Mechanics --}{You can make intricate and complex devices out of component parts. Clockwork devices and siege engines are the main sorts of things you might make with this subskill.}
+    \item \ability{Papermaking \& Bookbinding --}{You can make the material for books and other documents. Actually putting information into them is another matter.}
+    \item \ability{Stonework --}{Making things out of rock. This includes things like architecture and also things like special Dwarven armors.}
+    \item \ability{Weaving/Tailoring --}{Cloth, leather, and other flexible materials.}
+    \item \ability{Woodworking --}{Wooden weapons and armor, bows, carpentry, whittling. Pretty much anything with reasonably sturdy plant material.}
+\end{list}
+
+\vspace{6pt}
+
+\noindent Yes, a character who has 8 ranks in Craft has all the subskills. We're okay with that, someone who's working at a post-human level of craftsmanship \emph{should} disregard that sort of thing.
+
+\subsection{Using Craft}
+
+\desc{Linking the creation time of a object to its cost is dumb. It results in a lot of the nonsense mentioned earlier, and it hurts suspension of disbelief that something made out of gold is harder to make than the exact same thing made out of silver.}
+
+\desc{So here's how this works: making something has a basic DC at low levels, and as things get more complex the DC increases. The basic DC for making an item is 10. Modifiers are added to this based on how complex the object being made is and how many specializations the various parts fall under.}
+
+\desc{Making a Masterwork item adds 5 to the DC, and it also takes additional time. Combining multiple Craft subskills also adds a +5, such as making a thinaun dagger out of iron (Blacksmithing to make it a dagger, Alchemy to transform the iron into thinaun). Significant changes to a material like making glass an unbreakable substance adds +10 to the DC.}
+
+Magic Items 
+Magic item properties come in minor, moderate, and major varieties, and making a magic item takes only time and the ability to actually produce it. These are the rough times it takes to create a magic item, per property:
+
+\listone
+\item Minor Magic--1 day 
+\item Moderate Magic--5 days 
+\item Major Magic--50 days. 
+\end{list}
+
+
+\subsubsection{Mastercraft}
+
+Okay, so there are people who are really good at making high-quality goods. Let's talk about that a little bit, shall we? 
+
+You can enhance and enchant non-masterwork items. I've never seen any particularly compelling reason why an item has to be well-made for it to hold magic. 
+
+Making a Masterwork item adds 5 to the Craft DC. 
+
+But, there are people who can make *really* good items. They've taken the Mastercraft feat.
+
+\subsection{Crafting Feats}
+There's several things you can do with Craft, so it makes a certain amount of sense that there are several Craft skill feats. Some of them are multiple-dependency feats. 
+
+\begin{multicols}{2}
+
+\skillfeat{Craft Magic [Skill]}
+{What you make is simply magical.}
+{Craft and Spellcraft Ranks:}
+{You can craft magic items with a caster level equal to your character level. You Get Scribe Scroll and Brew Potion. Spellcraft is a class skill for you.}
+{Craft Wand, Craft Wondrous Item}
+{Craft Magic Arms and Armor, and Craft Rod}
+{Craft Staff and Forge Ring}
+{You can craft artifacts, with an inherent level of up to your character level.}
+
+\skillfeat{Swift Crafting [Skill]}
+{By knowing the secret time-saving techniques of the master craftsmen, you can take significantly less time to make things.}
+{Craft Ranks:}
+{You may take 10 on a craft check without increasing the amount of time you spend working.}
+{Creation time is decreased to 80\%}
+{Creation time is decreased to 60\%}
+{Creation time is decreased to 40\%}
+{Creation time is decreased to 20\%}
+
+\skillfeat{Alchemy [Skill]}
+{}
+{Craft (alchemy) Ranks:}
+{+3 to Craft checks involving Alchemy}
+{You can make alchemical items such as antitoxin, acid flasks, and so on. You do not have to be a wizard to make any of these items. You also get Brew Potion.}
+{Your understanding of matter lends itself to alchemical combinations of base materials. So one could imbue glass with the strength of adamantine, or adamantine with the lightness of mithril. Anything goes, so have fun and be creative.}
+{Your skill with alchemy lets you make one material wholly into another, as long as they are vaguely similar--so you can turn steel into adamantine or wood into darkwood (or whatever). Yea, ye may turn heavy lead into bright gold, even. However, you're level 11 and have hit the Wish economy, so that's basically good for scamming the people lower down the economic latter.}
+{You can make absolute materials--completely unbreakable, or cuts anything, or weightless, or what have you. Have fun with that.}
+
+\skillfeat{Mastercraft [Skill]}
+{A feat that almost all serious craftsmen aspire to.}
+{Craft Ranks:}
+{You get a +3 to Craft checks}
+{You can put that point of Masterwork bonus to anything weapon, armor property you want. 
+Melee Weapon Properties: 
+Attack (Supposedly, its balance) 
+Damage 
+Critical threat range (+1. Added *after* any doubling is done) 
+Hardness/HP (2 points of Hardness and 5 HP per Masterwork point) 
+
+Ranged Weapon Properties: 
+Attack 
+Damage 
+Critical multiplier (+1) 
+Range Increment (+50\% range increment. Adds up with the Sniper feat, so someone with a long-range bow and Sniper has double the range) 
+
+Armor Properties: 
+AC 
+ACP (-1 per point of bonus) 
+ASP (ditto) 
+Weight (-10\% per point). 
+
+Tools/Items: 
++2 bonus to relevant activities per masterwork point. The point cap of Craft Ranks/4 is still in effect.}
+{You can add multiple masterwork bonuses to a piece of equipment, at the extra effort of +5 for each point of masterwork bonus. Masterwork bonuses stack with magical enhancement bonuses, but there are a couple of rules concerning their use: 
+
+-Weapon/armor properties, once enhanced, cannot be improved until all the other properties have been improved. So, no, you can't make a weapon with an attack bonus of (Craft check - 10)/5 or add a ton of AC to a set of armor. 
+
+-The highest masterwork bonus you can produce is equal to your ranks in Craft/4. There's nothing to stop you from making *every* item property have that bonus, though. 
+
+-Masterwork bonuses also take skill to use. The best set of tools isn't much help to a rank amateur, after all. So the highest masterwork bonus you can use is 1/3 your character level; this only applies to weapons and tools (and, even then, it doesn't apply to weapon durability). If you get a weapon or item you don't know how to fully use at the moment, you will gain more bonuses as you gain more skill (i.e., gain levels).}
+{When you make something, you can add Masterwork points equal to your Intelligence modifier, without increasing the check DC. You're just that good. You can also still take the time to add normal Masterwork points (with the same DC increase).}
+{Masterwork points are equal to 3/2 your Intelligence modifier (round down).}
+
+\end{multicols}
+
+Craft Bonuses
+
+In some figuring I did today, I worked out that a level 16 character who whores Intelligence can get a +63 bonus to Craft. That actually seems about right. I used a couple of rules for figuring bonus: 
+
+-You can only get bonuses from one set of tools involved in the crafting (use the highest) 
+
+-You can only get two bonuses from a feat or specialization involved (these are all +3 bonuses, so it's a total of +6). 
+
+So for a level 16 craftsman of the right race who's serious about getting his work: 
+19 ranks 
++3 (Mastercraft) 
++3 (some feat bonus or specialization) 
++10 (Masterwork tools from someone who was at least level 17) 
++16 (Enhancement bonus on tools) 
++12 Intelligence bonus (18 + 2 (Racial) + 4 Ability Boost + 5 (Wish) + 6 (Enhancement)) 
+
+So I suggest you follow the same guidelines.
+
+
+Materials: 
+Having the necessary materials is essential, of course. But you can also use materials to speed the process along. Gemstones, oils, minerals, metals, the body parts of weird creatures...These should be used to speed up crafting or just because they sound cool. 
+
+Magic: 
+Whether you're casting Burning Hands into a sword until it understands what's expected of it, or etching the runes for Burning Blade onto it, magic helps things along. This is the standard Craft Magic Arms and Armor, but I *will* expand on runes. 
+
+Drama: 
+This is not worked nearly enough in the SRD crafting rules. Remember when you read The Crystal Shard for the first time and Bruenor was crafting the hammer? He'd found what he believed to be a magic place, and he worked during the full moon, around the high point of summer, and was able to make a kickass magic weapon in three night's work. Although he did have runes. So, you know what? Without anything else, someone should be able to make a magic weapon by making the creation awesome enough. For example, if someone crafts a sword and then prays hard enough over it, or writes prayers to Pelor or whatever on the blade as he sings, he should be able to get Pelor's attention and get a blessing on the item. Seriously, the gods are actually there and you ought to be able to get a hand from them if it's dramatically appropriate. There's other ways, too. If you slew the Sun Emperor or the Pale King of the Shades with your rapier, it's pretty awesome if your rapier was was changed in the process and burned undead or sucked the life out of people. 
+
+Edit: Other methods of getting some Drama going-- 
+
+Timing: Working by a full, half, or new moon, or during a special set of holidays or around the time of an eclipses, or making a weapon specifically for a purpose or something...that's totally cool. 
+
+Events: Sometimes an item is cursed or blessed based on the events it was involved in. 
+
+
