@@ -1,0 +1,102 @@
+\contentsline {chapter}{\numberline {1}The Socialomicon : Heroes in the Greek Sense}{5}{chapter.1}
+\contentsline {section}{\numberline {1.1}Living With Yourself After a Raid}{5}{section.1.1}
+\contentsline {section}{\numberline {1.2}Razing Hell: When Genocide is the Answer}{5}{section.1.2}
+\contentsline {section}{\numberline {1.3}The Hands of the Divine}{6}{section.1.3}
+\contentsline {section}{\numberline {1.4}Temporal Authority in D\&D}{6}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}The Basis for Hereditary Rule in D\&D}{7}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}The Place of Aristocrats}{7}{subsection.1.4.2}
+\contentsline {chapter}{\numberline {2}Charactonomicon}{8}{chapter.2}
+\contentsline {section}{\numberline {2.1}Base Classes}{8}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Monk}{8}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Jester}{12}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Assassin}{14}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Thief Acrobat}{17}{subsection.2.1.4}
+\contentsline {section}{\numberline {2.2}Prestige Classes}{19}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Defiler of Temples}{20}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Ninja of Gax}{21}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Elothar Warrior of Bladereach}{22}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Dungeon Veteran}{23}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Master of Snake Mountain}{24}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.2.6}Seeker of the Lost Wizard Traditions}{26}{subsection.2.2.6}
+\contentsline {chapter}{\numberline {3}The Economicon: Making Sense of the Gold Standard}{28}{chapter.3}
+\contentsline {section}{\numberline {3.1}Wish and the Economy}{28}{section.3.1}
+\contentsline {section}{\numberline {3.2}Wartime Economies Make for Shortages}{28}{section.3.2}
+\contentsline {section}{\numberline {3.3}Coins are Big and Heavy}{29}{section.3.3}
+\contentsline {section}{\numberline {3.4}Bad Money Drives Out Good: The Penalties of Paper}{29}{section.3.4}
+\contentsline {section}{\numberline {3.5}Powerful Creatures Have a Powerful Economy}{30}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Gems: Truth or Dare}{30}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}Magical Currency}{31}{subsection.3.5.2}
+\contentsline {section}{\numberline {3.6}The Service Economy: The Profession Rules Don't Work}{32}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}Professions and their Pay Scale}{32}{subsection.3.6.1}
+\contentsline {section}{\numberline {3.7}Running a Business}{33}{section.3.7}
+\contentsline {subsection}{\numberline {3.7.1}Capitalization}{33}{subsection.3.7.1}
+\contentsline {subsection}{\numberline {3.7.2}Risk}{33}{subsection.3.7.2}
+\contentsline {subsection}{\numberline {3.7.3}Resources}{34}{subsection.3.7.3}
+\contentsline {subsection}{\numberline {3.7.4}Growing the Business}{34}{subsection.3.7.4}
+\contentsline {subsection}{\numberline {3.7.5}Profits}{34}{subsection.3.7.5}
+\contentsline {subsection}{\numberline {3.7.6}Command Economies}{35}{subsection.3.7.6}
+\contentsline {section}{\numberline {3.8}Bringing the World out of the Dark Ages}{35}{section.3.8}
+\contentsline {chapter}{\numberline {4}The Maginomicon}{37}{chapter.4}
+\contentsline {section}{\numberline {4.1}Easter Egg Class Features: Artifact Swords and Powergloves}{37}{section.4.1}
+\contentsline {section}{\numberline {4.2}Your Money is No Good Here}{37}{section.4.2}
+\contentsline {section}{\numberline {4.3}It's not Stupid, it's Advanced!}{37}{section.4.3}
+\contentsline {section}{\numberline {4.4}Material Components: A Joke Gone Way Out of Hand}{38}{section.4.4}
+\contentsline {section}{\numberline {4.5}Some Spells Don't Work}{38}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Polymorph Version 1: Character Replacement}{38}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Polymorph Version 2: Fixed Forms}{40}{subsection.4.5.2}
+\contentsline {section}{\numberline {4.6}Some Effects Don't work}{42}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Stacking Spell Resistance}{42}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}Hiding in 3.5 D\&D is Dumb}{42}{subsection.4.6.2}
+\contentsline {subsection}{\numberline {4.6.3}Clerics and Druids get Broken with Supplements}{43}{subsection.4.6.3}
+\contentsline {chapter}{\numberline {5}Life Under Ground}{44}{chapter.5}
+\contentsline {section}{\numberline {5.1}The Thermodynaminomicon: The G of Life Continues}{44}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Those whacky Mushrooms}{44}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Portals}{44}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Magic Deposits}{45}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Subduction}{45}{subsection.5.1.4}
+\contentsline {section}{\numberline {5.2}The Bionomicon}{45}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}The Chicken and the Egg}{45}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Small Isolated Populations are Bad}{45}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}We Eat What We Like}{46}{subsection.5.2.3}
+\contentsline {section}{\numberline {5.3}Empirinomicon}{46}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}The Myconids: Apathy Writ Large}{46}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}The Aboleth: Inheritance of the Memory Fish}{47}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}The Illithid: Slaves of the Elder Brain}{47}{subsection.5.3.3}
+\contentsline {subsection}{\numberline {5.3.4}Progenitor of the Gith}{48}{subsection.5.3.4}
+\contentsline {subsection}{\numberline {5.3.5}The Drow: A Higher Technology Setting}{49}{subsection.5.3.5}
+\contentsline {subsection}{\numberline {5.3.6}The Eye Tyrants: Lingering Hatred}{49}{subsection.5.3.6}
+\contentsline {subsection}{\numberline {5.3.7}The Kuo-Toans: Opportunities Slip By}{50}{subsection.5.3.7}
+\contentsline {subsection}{\numberline {5.3.8}Bonus Class: The Monitor}{50}{subsection.5.3.8}
+\contentsline {subsection}{\numberline {5.3.9}The Troglodytes: Persecution Complex}{51}{subsection.5.3.9}
+\contentsline {chapter}{\numberline {6}The Constructanomicon}{53}{chapter.6}
+\contentsline {section}{\numberline {6.1}Dungeons: By the gods, why?}{53}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Dungeons: building dungeons for fun, profit, and defense}{53}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Chokepoints Are Your Friend}{54}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}The Three ``M''s: Mobility, Manpower, and Morale}{54}{subsection.6.1.3}
+\contentsline {subsection}{\numberline {6.1.4}Form Follows Function}{55}{subsection.6.1.4}
+\contentsline {subsection}{\numberline {6.1.5}Castles and Manors: Taking the Dungeon out of the Dungeon}{55}{subsection.6.1.5}
+\contentsline {subsection}{\numberline {6.1.6}Unimportance}{55}{subsection.6.1.6}
+\contentsline {subsection}{\numberline {6.1.7}Magically Foiling Diviners}{55}{subsection.6.1.7}
+\contentsline {subsection}{\numberline {6.1.8}The Public Square: When Divination Doesn't Matter}{56}{subsection.6.1.8}
+\contentsline {section}{\numberline {6.2}Traps}{56}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Designing Traps}{56}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Placing Traps}{56}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Organizational Traps}{57}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}Lethal Traps}{57}{subsection.6.2.4}
+\contentsline {subsection}{\numberline {6.2.5}Living Traps}{58}{subsection.6.2.5}
+\contentsline {subsection}{\numberline {6.2.6}Beneficial Traps}{58}{subsection.6.2.6}
+\contentsline {chapter}{\numberline {7}The Lexiconinomicon}{59}{chapter.7}
+\contentsline {section}{\numberline {7.1}Language in D\&D}{59}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Regional Languages}{59}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.2}Pidgins: Common and Undercommon}{59}{subsection.7.1.2}
+\contentsline {subsection}{\numberline {7.1.3}Language System I -- High Fantasy}{60}{subsection.7.1.3}
+\contentsline {subsection}{\numberline {7.1.4}Language System II -- Remotely Realistic}{60}{subsection.7.1.4}
+\contentsline {section}{\numberline {7.2}Spellbooks}{61}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Using Other Peoples' Spellbook}{61}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}Getting by Without a Spellbook}{61}{subsection.7.2.2}
+\contentsline {subsection}{\numberline {7.2.3}Arcane Magical Writings}{61}{subsection.7.2.3}
+\contentsline {chapter}{\numberline {8}Dungeons of Note}{63}{chapter.8}
+\contentsline {section}{\numberline {8.1}The Hall of Records}{63}{section.8.1}
+\contentsline {section}{\numberline {8.2}The Tomb of Iuchiban}{63}{section.8.2}
+\contentsline {section}{\numberline {8.3}The Garden of the Gretel the Snowshaper}{64}{section.8.3}
+\contentsline {section}{\numberline {8.4}The Closed Shafts}{64}{section.8.4}

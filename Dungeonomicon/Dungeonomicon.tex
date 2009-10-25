@@ -1,0 +1,198 @@
+\documentclass[10pt]{report}
+
+\usepackage{appendix}
+\usepackage{floatflt}
+\usepackage{fancyhdr}
+\usepackage{textcomp}
+\usepackage[usenames]{color}
+\usepackage{isoent}    %\sfrac
+%\usepackage{palatino} %font
+\usepackage{newcent}   %font
+\usepackage{sectsty} %custom section headings
+
+\newcommand{\normalsections}{
+\sectionfont{\noindent\rule{\textwidth}{0.015in}\\\nohang}
+\subsectionfont{\noindent\rule{\textwidth}{0.005in}\\\nohang}
+}
+
+\newcommand{\columnsections}{
+\sectionfont{\vspace*{-20pt}\noindent\rule{3.5in}{0.015in}\\\nohang}
+\subsectionfont{\vspace*{-20pt}\noindent\rule{3.5in}{0.005in}\\\nohang}
+}
+
+
+\sectionfont{\noindent\rule{\textwidth}{0.015in}\\\nohang}
+\subsectionfont{\noindent\rule{3.5in}{0.005in}\\\nohang}
+
+\usepackage[Bjarne]{fncychap} %Canned chapter headings
+
+
+\usepackage{multicol}
+\usepackage[bookmarks=true,colorlinks,linkcolor=cyan,breaklinks]{hyperref}
+
+
+
+%%%%Margins%%%
+\topmargin 0pt
+\advance \topmargin by -\headheight
+\advance \topmargin by -\headsep
+\textheight 8.9in
+\oddsidemargin -0.25in
+\evensidemargin \oddsidemargin
+\textwidth 7in
+\oddsidemargin -0.25in
+%\setlength {\parindent} {0pt}
+
+
+
+%%%Formatting%%%
+\newcommand{\ability}[2]{\smallskip \noindent \textbf{#1} #2}
+\newcommand{\shortability}[2]{\noindent\textbf{#1} #2\\}
+\newcommand{\bolded}[1]{\noindent\textbf{#1}}
+\newcommand{\itemability}[2]{\item \textbf{#1} #2}
+\newcommand{\featname}[1]{\vspace*{0.1cm plus 0.2cm minus 0.05cm}\noindent\textbf{#1}\\}
+\newcommand{\featnamelist}[1]{\vspace*{0.1cm plus 0.2cm minus 0.05cm}\noindent\textbf{#1}}
+
+\newcommand{\descfeat}[2]{\featname{#1}\emph{#2}\\}
+
+\newcommand{\classname}[1]{\subsection{#1}}
+\newcommand{\condition}[1]{\emph{#1}}
+\newcommand{\quot}[1]{\emph{#1}\medskip}
+\newcommand{\desc}[1]{#1 \medskip}
+\newcommand{\example}[1]{\emph{#1}}
+\newcommand{\magicitem}[1]{\emph{#1}}
+\newcommand{\monster}[1]{\subsection{#1} \label{monster:#1}}
+\newcommand{\monsterline}[2]{\textbf{#1:} #2\\}
+\newcommand{\monstersizetype}[2]{\textbf{#1 #2}\\}
+\newcommand{\spell}[1]{\emph{#1}}
+\newcommand{\spelllist}[1]{\smallskip \noindent \underline{\textbf{#1}}}
+
+% For the feats -- moved here from feats.tex because we added another 
+% section(s) for feats. -Surgo
+\newcommand{\minitabular}[1]{\begin{tabular}{p{0.25in}p{2.9in}} #1\\ \end{tabular}}
+\newcommand{\babfeat}[7]{
+	\noindent\minitabular{\multicolumn{2}{l}{\parbox{3in}{\textbf{#1}}}}
+	\minitabular{\multicolumn{2}{l}{\parbox{3in}{\small #2}}}
+	\minitabular{\raggedleft\textbf{\small \textbf{+0:}}& {\small #3}}
+	\minitabular{\raggedleft\textbf{\small +1:} & {\small #4}}
+	\minitabular{\raggedleft\textbf{\small +6:} & {\small #5}}
+	\minitabular{\raggedleft\textbf{\small +11:} & {\small #6}}
+	\minitabular{\raggedleft\textbf{\small +16:} &{\small #7}}
+}
+\newcommand{\skillfeat}[8]{
+	\noindent\minitabular{\multicolumn{2}{l}{\parbox{3in}{\textbf{#1}}}}
+	\minitabular{\multicolumn{2}{l}{\parbox{3in}{\small #2}}}
+	\minitabular{\multicolumn{2}{l}{\parbox{3in}{\small\textbf{#3}}}}
+	\minitabular{\raggedleft\textbf{\small \textbf{0:}} &{\small #4}}
+	\minitabular{\raggedleft\textbf{\small 4:} &{\small #5}}
+	\minitabular{\raggedleft\textbf{\small 9:} &{\small #6}}
+	\minitabular{\raggedleft\textbf{\small 14:} &{\small #7}}
+	\minitabular{\raggedleft\textbf{\small 19:} &{\small #8}}
+}
+
+\newcommand{\boxit}[1]{\frame{\parbox{\textwidth}{#1}}}
+
+% A new box command -- the first argument is the box's header, the second the 
+% contents of the box. This looks a lot better than \boxit. -Surgo
+\newcommand{\abox}[2]{\vspace{5pt}
+	\fbox{\begin{minipage}{0.8\linewidth}
+	\setlength{\parindent}{0.15in}
+	\textbf{#1}
+
+	#2
+\end{minipage}}
+\vspace{5pt}}
+
+\newcommand{\itemspace}{\setlength{\itemsep}{-1mm}\setlength{\topsep}{-1mm} }
+
+\newcommand{\listone}{\begin{list}{$\bullet$}{\itemspace}}
+\newcommand{\listprereq}{\begin{list}{\vspace*{-2pt}}{\itemspace}}
+\newcommand{\listtwo}{\begin{list}{$\triangleright$}{\itemspace}}
+\newcommand{\listthree}{\begin{list}{--}{\itemspace}}
+
+% Bold the first argument in the listitem
+\newcommand{\bolditem}[2]{\item \textbf{#1} #2}
+
+\newcommand{\slashfrac}[2]{${}^{#1}$\hspace*{-1pt}\makebox[2pt]{$\diagup$}${}_{#2}$}
+%\newcommand{\half}[0]{\slashfrac{1}{2}}
+\newcommand{\half}[0]{\ensuremath{\sfrac{1}{2}} }
+\newcommand{\third}[0]{\ensuremath{\sfrac{1}{3}} }
+\newcommand{\fourth}[0]{\ensuremath{\sfrac{1}{4}} }
+%\newcommand{\half}[0]{\ensuremath{\scriptscriptstyle 1/2}}
+%\newcommand{\threefourths}[0]{\ensuremath{\sfrac{3}{4}}}
+
+
+%\rule{\textwidth}{0.005in}
+
+%\renewcommand{\sectionmark}[1]{\markright{\thesection\ \boldmath\emph{#1}\unboldmath}\\\rule{\textwidth}{0.005in}\\}
+
+\setcounter{tocdepth}{1}
+
+\begin{document}
+
+\input{cover}
+
+\pagestyle{fancy}
+%Fix the spacing so it's all reasonable
+\linespread{.9}  \small  \normalsize \itemspace \normalsections
+
+\tableofcontents
+
+\input{social}
+
+\chapter{Charactonomicon}
+
+\quot{``Honestly, I sort of expected my character to be more awesome than this.''}
+
+Many character archetypes don't fit neatly into the pseudo-European-battlefield that D\&D is often concepted as, but do fit squarely into the genre that Dungeons and Dragons has become. Most notably, the unarmored warriors, swashbucklers, and talkative heroes that are perpetuated in fantasy literature. They do have a place in the D\&D setting, but they really haven't been done well in the D\&D rules. This makes us very sad. What follows is a re-imagining of several classes that have been with us for over 30 years, but which don't have functional game mechanics in the modern era. Some of them (like the Jester) have never had functional game mechanics, while others (like the Monk) have been playable characters at various times but aren't now.
+
+Our goal here is to make these archetypes playable in low-level environments and high level environments without the implementation of Easter Egg class features like DM pity. A monk is an integral portion of D\&D, and there should be a way to participate in combats against monsters of your level other than the current standard:
+
+\begin{enumerate}
+\item Massively underperform against enemies of your level.
+\item Wait for the DM to recognize this as a systemic problem and throw in campaign specific treasure that will make your character awesome.
+\item Use that awesome equipment to pull your weight with the other party members.
+\end{enumerate}
+\vspace{20pt}
+
+\textbf{Why no Open Lock skills?} Open Lock is a legacy skill that makes no sense. In previous editions of D\&D, a Thief had an ``Open Locks'' skill and a ``Find/Remove Traps'' skill. In 3rd edition. Find/Remove Traps got split into Search and Disable Device. Disable Device is actually capable of bypassing any device or spell-based impediment, not just Traps these days. Heck, it even has bypassing a Lock as an example task! There's a reason that other D20 games have dropped Open Locks altogether, and we strongly support that decision. In that spirit, we've dropped the Open Lock skill from all classes in the Dungeonomicon, and suggest that you allow players to use their Dexterity Modifier in place of their Intelligence Modifier for Disable Device if they want to.
+
+\section{Base Classes}
+
+\input{baseclasses/monk}
+\input{baseclasses/jester}
+\input{baseclasses/assassin}
+\input{baseclasses/thiefacrobat}
+
+\section{Prestige Classes}
+
+The prestige class system is as old as Advanced Dungeons \& Dragons, and it has never really lived up to peoples' high expectations of it. From the original Bard on, there has always been an expectation that getting into a Prestige Class somehow \emph{should be} an ordeal where you get less power now and more power later. Others think that you should get more power now and pay for it by getting less power later on. That's crap.
+
+Gaining levels isn't like purchasing a car. You shouldn't be allowed to save up character power in interest drawing accounts. You shouldn't be allowed to borrow power from the future at heinous interest rates. The fact is that every game of D\&D is a \emph{game}. And that doesn't just mean that each campaign is a game, it means that each individual session of D\&D is a game. And games that aren't fair aren't very fun. In the greater scheme of things it is theoretically possible to arrange a situation where one session might be unfair to one player and another session is unfair to the same player in the \emph{opposite fashion}, but the fact is that in practice this is just very mean to all the players all the time. People feel it when they're being screwed far more than when the chips are stacked with them, so this sort of thing is just highly oppressive to everyone involved.
+
+Worse, while you can create some sort of abstract proof about potential long-term balance in either the ``buy now, pay later" or ``save up for the awesome" models, in actual D\&D games this simply does not work. It can't. While D\&D is inherently open ended, each actual game has a beginning, a middle, and an end. And while it would be convenient if every game began at 1st level and ended at 20th, we know that isn't what really happens. Campaigns begin at later levels (after the pay-offs have kicked in or setups have become obsolete), and they end before Epic (before pay-offs or interest payments kick in). And this is \emph{normal}. Any set up in which a character is supposed to have less power at one part of his career and more in another is unenforceable, there's no possible guarantee that both the low power and the high power period will ever actually happen in-game. In fact, in almost all cases it's a pretty good bet that they \emph{won't}.
+
+A character's level determines what they should be able to do. That's their \emph{character level}, not their Class level. When a character is 7th level they should go 50/50 with a Medusa, a Hill Giant, a Spectre, and a Succubus. We know this, because that's what being a 7th level character \emph{means} according to the CR system. If a character lacks the abilities or the numerics to compete evenly against those monsters, then he's underpowered. If a character has the mad skills to consistently crush that kind of opposition, then he's overpowered. And that's where Prestige Classes can come in to patch things up -- because PrCs have a tendency to be available at about 7th level. So if the party Fighter isn't doing well against monsters of his level (and unless he's a pretty min/maxed build, he probably won't be), feel free to throw in PrCs for that character that are much more powerful. And if the party Druid is smacking those opponents down like a line of shots in a red light bar -- then you should consider cutting him off.
+
+What follows are some examples of prestige classes you can introduce into your game to do what Prestige Classes do well -- give characters flavor abilities that they can be proud of and keep underperforming characters on track with the rest of the party.
+
+\input{prestige/defiler}
+\input{prestige/ninjaofgax}
+\input{prestige/elothar}
+\input{prestige/dungeonveteran}
+\input{prestige/masterofsnakemountain}
+\input{prestige/seekerofthelosttraditions}
+
+\input{economics}
+
+\input{magic}
+
+\input{thermo}
+
+\input{dungeons}
+
+\input{writings}
+
+\input{dungeonsofnote}
+
+\end{document}

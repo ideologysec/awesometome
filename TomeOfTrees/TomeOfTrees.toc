@@ -1,0 +1,27 @@
+\contentsline {chapter}{\numberline {1}Nature, Biology, Plants}{4}{chapter.1}
+\contentsline {chapter}{\numberline {2}Food, Disease, and Resources}{5}{chapter.2}
+\contentsline {chapter}{\numberline {3}Nature with Class}{6}{chapter.3}
+\contentsline {subsection}{\numberline {3.0.1}Bard}{6}{subsection.3.0.1}
+\contentsline {subsubsection}{Game Rule Information}{7}{section*.2}
+\contentsline {subsubsection}{Performance Tricks:}{10}{section*.3}
+\contentsline {section}{\numberline {3.1}Ranger}{11}{section.3.1}
+\contentsline {section}{\numberline {3.2}Bonus Core Classes}{14}{section.3.2}
+\contentsline {section}{\numberline {3.3}The Spirit Shaman}{14}{section.3.3}
+\contentsline {section}{\numberline {3.4}The Witch}{17}{section.3.4}
+\contentsline {chapter}{\numberline {4}Nature with Prestige}{22}{chapter.4}
+\contentsline {section}{\numberline {4.1}Arcane Archer}{22}{section.4.1}
+\contentsline {section}{\numberline {4.2}Berzerker}{24}{section.4.2}
+\contentsline {section}{\numberline {4.3}Bladesinger}{25}{section.4.3}
+\contentsline {section}{\numberline {4.4}Defender of the Woods}{26}{section.4.4}
+\contentsline {section}{\numberline {4.5}Lunar Knight}{28}{section.4.5}
+\contentsline {section}{\numberline {4.6}Monster Rider}{29}{section.4.6}
+\contentsline {subsubsection}{Monster Rider Abilities:}{31}{section*.4}
+\contentsline {section}{\numberline {4.7}Tiger Monk}{31}{section.4.7}
+\contentsline {chapter}{\numberline {5}Feats and Spells}{34}{chapter.5}
+\contentsline {section}{\numberline {5.1}Feats}{34}{section.5.1}
+\contentsline {section}{\numberline {5.2}Spells}{34}{section.5.2}
+\contentsline {chapter}{\numberline {6}Enchantment in D\&D}{35}{chapter.6}
+\contentsline {chapter}{\numberline {7}Fey}{36}{chapter.7}
+\contentsline {section}{\numberline {7.1}Faerie Spheres}{36}{section.7.1}
+\contentsline {chapter}{\numberline {8}Plant Monsters}{37}{chapter.8}
+\contentsline {chapter}{\numberline {9}Wilderness Adventure}{38}{chapter.9}
