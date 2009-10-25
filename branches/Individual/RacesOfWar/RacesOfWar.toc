@@ -1,0 +1,112 @@
+\contentsline {chapter}{\numberline {1}War in D\&D}{6}{chapter.1}
+\contentsline {subsection}{\numberline {1.0.1}Fighting with Honor}{6}{subsection.1.0.1}
+\contentsline {chapter}{\numberline {2}Unusual Races}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}Unusual Races}{9}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Aasimar}{9}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Drow}{10}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Feytouched}{10}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Goblin}{11}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}Hobgoblin}{12}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {2.1.6}Orc}{12}{subsection.2.1.6}
+\contentsline {subsection}{\numberline {2.1.7}Half-Orc}{13}{subsection.2.1.7}
+\contentsline {subsection}{\numberline {2.1.8}Tiefling}{13}{subsection.2.1.8}
+\contentsline {section}{\numberline {2.2}Powerful Races}{14}{section.2.2}
+\contentsline {section}{\numberline {2.3}Converting Monsters Into Characters}{15}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Method 1: The Easy Way}{15}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Method 2}{15}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Method 3}{15}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Sample conversions}{15}{subsection.2.3.4}
+\contentsline {subsubsection}{Gnoll (Minimum Level 2)}{16}{section*.3}
+\contentsline {subsubsection}{Bugbear (Minimum Level 3)}{16}{section*.4}
+\contentsline {subsubsection}{Ogre (Minimum Level 4)}{16}{section*.5}
+\contentsline {subsubsection}{Frost Giant (Minimum Level 10)}{17}{section*.6}
+\contentsline {chapter}{\numberline {3}Warriors with Class}{18}{chapter.3}
+\contentsline {section}{\numberline {3.1}NPC Classes}{18}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Warrior [NPC]}{18}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}PC Classes}{19}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Fighter}{19}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Barbarian}{21}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Knight}{22}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Samurai}{25}{subsection.3.2.4}
+\contentsline {section}{\numberline {3.3}Prestige Classes}{27}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Death Knight}{27}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Demon Samurai}{28}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Dragon Lancer}{29}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Legendary Strategist}{30}{subsection.3.3.4}
+\contentsline {section}{\numberline {3.4}Multiclassing Characters}{31}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}XP Penalties}{32}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Favored Classes}{32}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Saving Throws}{32}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Skill Points}{32}{subsection.3.4.4}
+\contentsline {chapter}{\numberline {4}Warriors with Style}{33}{chapter.4}
+\contentsline {section}{\numberline {4.1}Character Backgrounds}{33}{section.4.1}
+\contentsline {section}{\numberline {4.2}The Failure of Feats}{36}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Exploits}{36}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}The New Feat System}{37}{subsection.4.2.2}
+\contentsline {section}{\numberline {4.3}The New Combat Ready Feats}{37}{section.4.3}
+\contentsline {section}{\numberline {4.4}Advanced Combat}{41}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Base Attack Bonus and Combat Maneuvers}{41}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Attacks of Opportunity}{42}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Bonus Attacks and BAB}{42}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}Attack Options}{42}{subsection.4.4.4}
+\contentsline {subsection}{\numberline {4.4.5}Special Attack Actions}{43}{subsection.4.4.5}
+\contentsline {chapter}{\numberline {5}Tools of the Trade}{46}{chapter.5}
+\contentsline {section}{\numberline {5.1}Weapons}{46}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Bows}{46}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Ammunition}{47}{subsection.5.1.2}
+\contentsline {section}{\numberline {5.2}Armor}{47}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Fantastic Armors}{48}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Armor Non-Proficiency}{48}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Armor Penalties}{48}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Not Armors}{49}{subsection.5.2.4}
+\contentsline {subsection}{\numberline {5.2.5}Light Armors}{49}{subsection.5.2.5}
+\contentsline {subsection}{\numberline {5.2.6}Medium Armors}{50}{subsection.5.2.6}
+\contentsline {subsection}{\numberline {5.2.7}Heavy Armors}{52}{subsection.5.2.7}
+\contentsline {subsection}{\numberline {5.2.8}Shields}{54}{subsection.5.2.8}
+\contentsline {subsection}{\numberline {5.2.9}Great Shields}{55}{subsection.5.2.9}
+\contentsline {chapter}{\numberline {6}Logistics and Dragons}{56}{chapter.6}
+\contentsline {section}{\numberline {6.1}The Demographics of D\&D}{56}{section.6.1}
+\contentsline {section}{\numberline {6.2}Leaders of Men}{57}{section.6.2}
+\contentsline {section}{\numberline {6.3}Administering your People}{58}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Conquered People}{58}{subsection.6.3.1}
+\contentsline {section}{\numberline {6.4}Why We Fight}{58}{section.6.4}
+\contentsline {chapter}{\numberline {7}The Mass Combat Mini-game}{59}{chapter.7}
+\contentsline {section}{\numberline {7.1}The Basics}{59}{section.7.1}
+\contentsline {section}{\numberline {7.2}Battles}{60}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Commander}{60}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}Battle Turns}{60}{subsection.7.2.2}
+\contentsline {subsection}{\numberline {7.2.3}Tactics}{60}{subsection.7.2.3}
+\contentsline {subsection}{\numberline {7.2.4}Charge}{60}{subsection.7.2.4}
+\contentsline {subsection}{\numberline {7.2.5}Rush}{60}{subsection.7.2.5}
+\contentsline {subsection}{\numberline {7.2.6}Fortify/Set}{61}{subsection.7.2.6}
+\contentsline {subsection}{\numberline {7.2.7}Movement}{61}{subsection.7.2.7}
+\contentsline {section}{\numberline {7.3}Player Characters in the Mass combat Mini-Game}{61}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}Attacking a Unit in Combat}{61}{subsection.7.3.1}
+\contentsline {subsection}{\numberline {7.3.2}Attacking a Unit with Spells or Effects}{61}{subsection.7.3.2}
+\contentsline {subsection}{\numberline {7.3.3}Building a Unit}{62}{subsection.7.3.3}
+\contentsline {subsection}{\numberline {7.3.4}Levy/Time}{62}{subsection.7.3.4}
+\contentsline {subsection}{\numberline {7.3.5}Special Qualities}{62}{subsection.7.3.5}
+\contentsline {chapter}{\numberline {8}A World At War}{63}{chapter.8}
+\contentsline {section}{\numberline {8.1}The Stone Ledger: The Dwarves Remember}{63}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Campaign Seed: Secrets Revealed}{64}{subsection.8.1.1}
+\contentsline {subsection}{\numberline {8.1.2}Campaign Seed: The Blank Spot}{64}{subsection.8.1.2}
+\contentsline {section}{\numberline {8.2}Gnolls: Too Lazy to Win}{64}{section.8.2}
+\contentsline {section}{\numberline {8.3}Vistas of the Giants: Big and Important Stuff}{65}{section.8.3}
+\contentsline {subsection}{\numberline {8.3.1}Campaign Seed: The Land Above}{65}{subsection.8.3.1}
+\contentsline {subsection}{\numberline {8.3.2}Campaign Seed: Vacillating Terrors}{65}{subsection.8.3.2}
+\contentsline {section}{\numberline {8.4}The Goblin Empire: Silent Loyalty, Silent Dissent}{65}{section.8.4}
+\contentsline {section}{\numberline {8.5}Elves: Servants of the High Wizards}{66}{section.8.5}
+\contentsline {section}{\numberline {8.6}Warrens of the Gnomes: Guerilla Illusionists}{67}{section.8.6}
+\contentsline {section}{\numberline {8.7}Orcs: The Endless War}{67}{section.8.7}
+\contentsline {section}{\numberline {8.8}Borderlands of the Sahuagin: Sore Winners}{68}{section.8.8}
+\contentsline {subsection}{\numberline {8.8.1}Campaign Seed: Free Your World}{69}{subsection.8.8.1}
+\contentsline {subsection}{\numberline {8.8.2}Campaign Seed: The Price of Hubris}{69}{subsection.8.8.2}
+\contentsline {section}{\numberline {8.9}After the War}{69}{section.8.9}
+\contentsline {section}{\numberline {8.10}Triumph of the Halflings: Reconstructing the Shire}{69}{section.8.10}
+\contentsline {section}{\numberline {8.11}Defeat of the Halflings: They Came and Took Our Land}{70}{section.8.11}
+\contentsline {section}{\numberline {8.12}Triumph of the Dwarves: Breaking the Cycles}{70}{section.8.12}
+\contentsline {section}{\numberline {8.13}Defeat of the Dwarves: The Tunnels Forgotten}{70}{section.8.13}
+\contentsline {section}{\numberline {8.14}Triumph of the Goblins: What's Yours is Mine}{70}{section.8.14}
+\contentsline {section}{\numberline {8.15}Defeat of the Goblins: A Land of Banditry}{71}{section.8.15}
+\contentsline {section}{\numberline {8.16}Triumph of the Necromancers: Endless Night}{71}{section.8.16}
+\contentsline {section}{\numberline {8.17}Defeat of the Necromancers: Resource Rush!}{71}{section.8.17}

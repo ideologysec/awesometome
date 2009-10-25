@@ -1,0 +1,132 @@
+\contentsline {chapter}{\numberline {1}Morality and Fiends}{4}{chapter.1}
+\contentsline {section}{\numberline {1.1}Morality: How Black is the Night?}{4}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Moral Option 1: A Worthy Opponent}{4}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Moral Option 2: The Banality of Evil}{5}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Moral Option 3: The Face of Horror.}{5}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.4}Moral Option 4: Perfection in Balance}{6}{subsection.1.1.4}
+\contentsline {section}{\numberline {1.2}To Triumph Over Evil}{6}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}The Importance of Consequentialism}{7}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Godliness isn't Goodliness}{7}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}There is no Salvation or Redemption in D\&D}{7}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}Code of Conduct: Paladins}{8}{subsection.1.2.4}
+\contentsline {section}{\numberline {1.3}Law and Chaos: Your Rules or Mine?}{8}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Ethics Option 1: A level of Organization.}{9}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Ethics Option 2: A Question of Sanity.}{9}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Ethics Option 3: The Laws of the Land.}{9}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}Ethics Option 4: My Word is My Bond.}{10}{subsection.1.3.4}
+\contentsline {subsection}{\numberline {1.3.5}Adherence to Self: Not a Rubric for Law}{10}{subsection.1.3.5}
+\contentsline {subsection}{\numberline {1.3.6}Rigidity: Not a Rubric for Law}{10}{subsection.1.3.6}
+\contentsline {section}{\numberline {1.4}I Fought the Law}{10}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Code of Conduct: Barbarian}{10}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Code of Conduct: Bard}{11}{subsection.1.4.2}
+\contentsline {section}{\numberline {1.5}Beating Back Chaos}{11}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Code of Conduct: Knight}{11}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Code of Conduct? Monk}{11}{subsection.1.5.2}
+\contentsline {subsection}{\numberline {1.5.3}Code of Conduct: Paladin Again}{12}{subsection.1.5.3}
+\contentsline {chapter}{\numberline {2}Fiends with Class}{13}{chapter.2}
+\contentsline {section}{\numberline {2.1}Base Classes}{13}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}True Fiend [Fiend]}{13}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Fiendish Brute [Fiend]}{15}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Conduit of the Lower Planes [Fiend]}{16}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Summoner}{17}{subsection.2.1.4}
+\contentsline {section}{\numberline {2.2}Prestige Classes}{19}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Hellwalker}{19}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Seer of the Tempest}{20}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Initiate of the Black Tower}{21}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Barrister of the Nine}{23}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Celestial Beacon}{24}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.2.6}Boatman of Styx}{25}{subsection.2.2.6}
+\contentsline {chapter}{\numberline {3}Fiends With Style}{27}{chapter.3}
+\contentsline {section}{\numberline {3.1}The Feats}{27}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}[Fiend] Feats}{27}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}The Spheres}{32}{subsection.3.1.2}
+\contentsline {chapter}{\numberline {4}Optional Rules for Fiends}{35}{chapter.4}
+\contentsline {section}{\numberline {4.1}No Wishing for More Wishes!}{35}{section.4.1}
+\contentsline {section}{\numberline {4.2}Damage Reduction and Special Materials}{36}{section.4.2}
+\contentsline {section}{\numberline {4.3}Putting the Prime Back in Prime Material Plane (Alternate Prime Material Plane Rules)}{37}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}The Prime is Better Than Cancun}{37}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}You Can Get Room Service}{37}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Better Service for VIPs}{37}{subsection.4.3.3}
+\contentsline {section}{\numberline {4.4}Practical Demonology: Additional Rules for Summoning}{38}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}The Deal}{38}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Part 1: Differences between Summoning and Calling}{38}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Part 2: Choosing a Pawn}{38}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}Part 3: Services!}{39}{subsection.4.4.4}
+\contentsline {subsection}{\numberline {4.4.5}Part 4: Closing the Deal}{40}{subsection.4.4.5}
+\contentsline {subsection}{\numberline {4.4.6}Part 5: The Business of Serving:}{41}{subsection.4.4.6}
+\contentsline {subsection}{\numberline {4.4.7}Part 6: Appendix: True Names and Use-names}{41}{subsection.4.4.7}
+\contentsline {section}{\numberline {4.5}Weapon Proficiencies? You've got to be kidding me!}{41}{section.4.5}
+\contentsline {chapter}{\numberline {5}High Adventure in the Lower Planes}{42}{chapter.5}
+\contentsline {section}{\numberline {5.1}High Adventure in\dots Acheron!}{42}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Campaign Seed: The Tunnel to Pandemonium}{42}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Campaign Seed: You're in the Army Now}{43}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Ten Low Level Adventures in Acheron}{43}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Ten Mid Level Adventures in Acheron}{43}{subsection.5.1.4}
+\contentsline {subsection}{\numberline {5.1.5}Ten High Level Adventures in Acheron}{44}{subsection.5.1.5}
+\contentsline {section}{\numberline {5.2}High Adventure in\dots Pandemonium!}{44}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Campaign Seed: Life in the Big City}{44}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Campaign Seed: The Largest Dungeon}{44}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Ten Low Level Adventures in Pandemonium}{45}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Ten Mid Level Adventures in Pandemonium}{45}{subsection.5.2.4}
+\contentsline {subsection}{\numberline {5.2.5}Ten High Level Adventures in Pandemonium}{45}{subsection.5.2.5}
+\contentsline {section}{\numberline {5.3}High Adventure in\dots Carceri!}{46}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Campaign Seed: A Ring of Keys}{46}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Campaign Seed: Escape from Tartarus}{46}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Ten Low Level Adventures in Carceri}{46}{subsection.5.3.3}
+\contentsline {subsection}{\numberline {5.3.4}Ten Mid Level Adventures in Carceri}{47}{subsection.5.3.4}
+\contentsline {subsection}{\numberline {5.3.5}Ten High Level Adventures in Carceri}{47}{subsection.5.3.5}
+\contentsline {section}{\numberline {5.4}High Adventure in\dots Hell!}{47}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Campaign Seed: A Kafkaesque Nightmare}{47}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Campaign Seed: Law of the West}{48}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}Ten Low Level Adventures in Hell}{48}{subsection.5.4.3}
+\contentsline {subsection}{\numberline {5.4.4}Ten Mid Level Adventures in Hell}{48}{subsection.5.4.4}
+\contentsline {subsection}{\numberline {5.4.5}Ten High Level Adventures in Hell}{49}{subsection.5.4.5}
+\contentsline {section}{\numberline {5.5}High Adventure in\dots The Abyss!}{49}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}Campaign Seed: We're the Exotic Products Trading Company (Abyssal Branch!)}{49}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.5.2}Campaign Seed: Pirates of the River Styx!}{49}{subsection.5.5.2}
+\contentsline {subsection}{\numberline {5.5.3}Ten Low Level Adventures in The Abyss}{50}{subsection.5.5.3}
+\contentsline {subsection}{\numberline {5.5.4}Ten Mid Level Adventures in The Abyss}{50}{subsection.5.5.4}
+\contentsline {subsection}{\numberline {5.5.5}Ten High Level Adventures in The Abyss}{51}{subsection.5.5.5}
+\contentsline {section}{\numberline {5.6}High Adventure in\dots Gehenna!}{51}{section.5.6}
+\contentsline {subsection}{\numberline {5.6.1}Campaign Seed: The Yugoloths Want You!}{52}{subsection.5.6.1}
+\contentsline {subsection}{\numberline {5.6.2}Campaign Seed: The Grand Game in the Crawling City}{52}{subsection.5.6.2}
+\contentsline {subsection}{\numberline {5.6.3}Ten Low Level Adventures in Gehenna}{52}{subsection.5.6.3}
+\contentsline {subsection}{\numberline {5.6.4}Ten Mid Level Adventures in Gehenna}{52}{subsection.5.6.4}
+\contentsline {subsection}{\numberline {5.6.5}Ten High Level Adventures in Gehenna}{53}{subsection.5.6.5}
+\contentsline {section}{\numberline {5.7}High Adventure in\dots Hades!}{54}{section.5.7}
+\contentsline {subsection}{\numberline {5.7.1}Campaign Seed: The End of Oasis}{54}{subsection.5.7.1}
+\contentsline {subsection}{\numberline {5.7.2}Campaign Seed: A World At War}{54}{subsection.5.7.2}
+\contentsline {subsection}{\numberline {5.7.3}Ten Low Level Adventures in Hades}{54}{subsection.5.7.3}
+\contentsline {subsection}{\numberline {5.7.4}Ten Mid Level Adventures in Hades}{55}{subsection.5.7.4}
+\contentsline {subsection}{\numberline {5.7.5}Ten High Level Adventures in Hades}{55}{subsection.5.7.5}
+\contentsline {chapter}{\numberline {6}To Rule in Hell\dots }{56}{chapter.6}
+\contentsline {section}{\numberline {6.1}Ascended to Godhood}{56}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Slaying the Gods}{56}{subsection.6.1.1}
+\contentsline {section}{\numberline {6.2}President of the Corporation}{57}{section.6.2}
+\contentsline {section}{\numberline {6.3}Powerful Adventurers:}{57}{section.6.3}
+\contentsline {section}{\numberline {6.4}Rulership of the Lower Planes}{57}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Location, Location, Location}{57}{subsection.6.4.1}
+\contentsline {subsubsection}{Finality}{58}{section*.2}
+\contentsline {subsubsection}{Soul Veins}{58}{section*.3}
+\contentsline {subsubsection}{Portals}{59}{section*.4}
+\contentsline {subsubsection}{Planar Oases}{59}{section*.5}
+\contentsline {subsection}{\numberline {6.4.2}Wondrous Architecture of the Lower Planes}{60}{subsection.6.4.2}
+\contentsline {subsubsection}{Necromantic City}{60}{section*.6}
+\contentsline {subsubsection}{Serpentine Labyrinth}{60}{section*.7}
+\contentsline {subsubsection}{Redstone City}{60}{section*.8}
+\contentsline {subsubsection}{Spired}{60}{section*.9}
+\contentsline {subsubsection}{Basalt}{61}{section*.10}
+\contentsline {subsubsection}{Plague Town}{61}{section*.11}
+\contentsline {subsubsection}{Forgotten}{61}{section*.12}
+\contentsline {subsubsection}{Forsaken}{61}{section*.13}
+\contentsline {subsubsection}{Rune-built}{61}{section*.14}
+\contentsline {subsubsection}{Hungry}{62}{section*.15}
+\contentsline {subsubsection}{Magic Dead}{62}{section*.16}
+\contentsline {subsubsection}{Wicked}{62}{section*.17}
+\contentsline {subsubsection}{Infernal Fortress}{62}{section*.18}
+\contentsline {subsection}{\numberline {6.4.3}Business as Usual}{62}{subsection.6.4.3}
+\contentsline {subsubsection}{Orchards of Larvae}{62}{section*.19}
+\contentsline {subsubsection}{Pain Stills}{63}{section*.20}
+\contentsline {subsubsection}{Zombie Factories}{63}{section*.21}
+\contentsline {subsubsection}{Fossil Storage}{63}{section*.22}
+\contentsline {subsubsection}{Arbitrage and Skullduggery}{64}{section*.23}
