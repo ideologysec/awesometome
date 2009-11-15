@@ -5,9 +5,7 @@ done short term (as in, soonish.) I'm working on checking things off this list, 
 
 - Format the Cleric, Druid, Rogue, and Wizard from the SRD in LaTeX so we can include them in the PDF. ADD SOME GODDAMN FLAVOR TEXT WHILE YOU'RE AT IT. Please.
 
-- Koumei's ninja and swashbuckler needs to be formatted for LaTeX: 
-http://www.tgdmb.com/viewtopic.php?t=50350
-http://www.tgdmb.com/viewtopic.php?t=50367
+- Koumei's ninja http://www.tgdmb.com/viewtopic.php?t=50350 and swashbuckler http://www.tgdmb.com/viewtopic.php?t=50367 needs to be formatted for LaTeX. 
 
 (They go in the "Additional PC Classes Section)
 
