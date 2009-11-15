@@ -1,0 +1,33 @@
+#summary It's a short list of things that need to be/ought to be/would be great if they could be...
+done short term (as in, soonish.) I'm working on checking things off this list, but I suck at writing, so put out the call.
+
+= MOAR DETAILS: =
+
+- Format the Cleric, Druid, Rogue, and Wizard from the SRD in LaTeX so we can include them in the PDF. ADD SOME GODDAMN FLAVOR TEXT WHILE YOU'RE AT IT. Please.
+
+- Koumei's ninja and swashbuckler needs to be formatted for LaTeX: 
+http://www.tgdmb.com/viewtopic.php?t=50350
+http://www.tgdmb.com/viewtopic.php?t=50367
+
+(They go in the "Additional PC Classes Section)
+
+- keep an eye on Frank's Totemist. Maybe format it for LaTeX now and update as he adds more soulmelds. http://www.tgdmb.com/viewtopic.php?t=50483
+
+- Someone seriously needs to write fluff for the SRD formatted shit. I'm not kidding. I understand that it's just rules but it is just not that interesting. Make it so.
+
+- pray for my soul, or for me to win the lottery so I can work on this full time. 
+
+
+= FOR LATERZ =
+
+- Find some free art. Seriously. This book needs pictures. At least one for each of the classes, and ideally one for all of the prestige classes. Then, (or maybe first) if you're so inclined, figure out how to include them in LaTeX - I don't know if it's possible or not, so find out.
+
+- trawl through the forums for all F&K classes, loose ends, etc. Make sure it's all in there.
+
+- get a mod on our side so we can move shit around on the Gaming Den website, because I'm losing track of all of this shit. Maybe clone it and then post it to a wiki or something. Way laterz.
+
+= ONGOING =
+
+- keep an eye out for errors, and don't be afraid to commit - the great thing about SVN is that we can resolve conflicts.
+
+- keep formatting SRD text - it should all go in at some point. But please. ADD FLAVA! (but no gold teeth, please)
