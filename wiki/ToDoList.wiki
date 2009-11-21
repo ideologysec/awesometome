@@ -3,11 +3,7 @@ done short term (as in, soonish.) I'm working on checking things off this list, 
 
 = MOAR DETAILS: =
 
-- Format the Cleric, Druid, Rogue, and Wizard from the SRD in LaTeX so we can include them in the PDF. ADD SOME GODDAMN FLAVOR TEXT WHILE YOU'RE AT IT. Please.
-
-- Koumei's ninja http://www.tgdmb.com/viewtopic.php?t=50350 and swashbuckler http://www.tgdmb.com/viewtopic.php?t=50367 needs to be formatted for LaTeX. 
-
-(They go in the "Additional PC Classes Section)
+- ADD SOME GODDAMN FLAVOR TEXT to the Cleric, Druid, Rogue, and Wizard. Also a short description.
 
 - keep an eye on Frank's Totemist. Maybe format it for LaTeX now and update as he adds more soulmelds. http://www.tgdmb.com/viewtopic.php?t=50483
 
@@ -28,4 +24,4 @@ done short term (as in, soonish.) I'm working on checking things off this list, 
 
 - keep an eye out for errors, and don't be afraid to commit - the great thing about SVN is that we can resolve conflicts.
 
-- keep formatting SRD text - it should all go in at some point. But please. ADD FLAVA! (but no gold teeth, please)
+- keep formatting SRD text - it should all go in at some point. But. ADD FLAVA! (no gold teeth, please)
