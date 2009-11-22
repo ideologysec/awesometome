@@ -22,6 +22,20 @@ done short term (as in, soonish.) I'm working on checking things off this list, 
 
 - get a mod on our side so we can move shit around on the Gaming Den website, because I'm losing track of all of this shit. Maybe clone it and then post it to a wiki or something. Way laterz.
 
+= Moar Rulez =
+
+Some parts of the rules are incomplete, and need to have things created for them, or the existing rules need to be mashed together in a workable way.
+
+-Spells: Frank at some point said that spells should be heightened automagically, for free! Just like the spheres get.  If we concur with this, it needs to be mentioned once a proper spell chapter is written.
+
+-Metamagic Feats: Frank&K seem to have intended for Metamagic spells to scale with the highest level spell you could cast like [Combat] feats and BAB.  But we never got an example.  A cohesive concept for this needs to be found and implemented. Unless of course we ignore this and stick with old-skool metamagic.  But it would be preferable that metamagic would be compatible with spheres somehow.
+
+-Mundane Equipment: The Mundane equipment tables aren't really complete.  They need prices at minimum.  Also, some of the "mundane" equipment seems rather magical, leading to....
+
+-Magic Items: The basic premise was already spelled out by frank and K, but no solid examples.  The Den as a whole seems to have a basic idea of how it should work, it just all needs to be written out.
+
+-Mini Games: The Mass Combat Mini Game could use a bit of fleshing out, even though it works as is.  Also, other mini games?  There's been talk of making a social combat system.  That would be _rad_.
+
 = ONGOING =
 
 - keep an eye out for errors, and don't be afraid to commit - the great thing about SVN is that we can resolve conflicts.
