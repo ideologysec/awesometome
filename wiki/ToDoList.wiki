@@ -36,6 +36,10 @@ Some parts of the rules are incomplete, and need to have things created for them
 
 -Mini Games: The Mass Combat Mini Game could use a bit of fleshing out, even though it works as is.  Also, other mini games?  There's been talk of making a social combat system.  That would be _rad_.
 
+-Monster Classes: The concept of generic-ish classes for monstrous players and NPCs is great.  But we have, what, three (Genie being a copy of one of those, really)?  I think the three [Fiendish] classes could be made into more generic [Outsider] classes; Conduit of The Planes, True Outsider, and Otherworldly Brute.  You could extend the Traits lists so you could select a trait for each of the outer planes, each of the elemental planes, and the shadow plane (Positive and Negative planes too?).
+
+  After doing that, we probably want at least _a_ class for other Types.  Construct, Dragon, Elemental, and Undead notably.  Humanoids, Monstrous Humanoids, and Giants should probably be stuck with with actual classes, there's no thematic reason for a Bigass Giant not to simply start grabbing levels of barbarian instead of getting levels of "Giant Wanker" or whatever. The other unmentioned types usually advance in HD, it seems. 
+
 = ONGOING =
 
 - keep an eye out for errors, and don't be afraid to commit - the great thing about SVN is that we can resolve conflicts.
