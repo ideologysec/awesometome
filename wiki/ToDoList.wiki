@@ -3,7 +3,9 @@ done short term (as in, soonish.) I'm working on checking things off this list, 
 
 = MOAR DETAILS: =
 
-*- we need to decide if skill points in classes are going to be broken up into two sets: 4+Int mod and add a note in the overall classes heading, or 4+Int modx4 at first level and 4+int mod every level thereafter.* I prefer option 2.
+*- we need to decide if skill points in classes are going to be broken up into two sets: 4+Int mod and add a note in the overall classes heading, or 4+Int modx4 at first level and 4+int mod every level thereafter.* 
+LoU: I prefer option 2.
+Ak: I think it's kind of retarded and prefer option one, because it's visually simpler and nicer looking, and people seriously start remembering that stuff pretty quick anyway.
 
 - ADD SOME GODDAMN FLAVOR TEXT to the Cleric, Druid, Rogue, and Wizard. Also a short description.
 
