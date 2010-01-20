@@ -82,8 +82,8 @@
 \newcommand{\skillfeat}[8]{
 	\noindent\minitabular{\multicolumn{2}{l}{\parbox{3in}{\textbf{#1}}}}
 	\minitabular{\multicolumn{2}{l}{\parbox{3in}{\small #2}}}
+	\minitabular{\raggedleft\textbf{\small \textbf{Benefit:}} &{\small #4}}
 	\minitabular{\multicolumn{2}{l}{\parbox{3in}{\small\textbf{#3}}}}
-	\minitabular{\raggedleft\textbf{\small \textbf{0:}} &{\small #4}}
 	\minitabular{\raggedleft\textbf{\small 4:} &{\small #5}}
 	\minitabular{\raggedleft\textbf{\small 9:} &{\small #6}}
 	\minitabular{\raggedleft\textbf{\small 14:} &{\small #7}}
@@ -152,6 +152,8 @@
 \input{baseclasses/curator}
 \input{baseclasses/marshal}
 \input{baseclasses/sohei}
+\input{baseclasses/soulborn}
+\input{baseclasses/totemist}
 %\input{baseclasses/whitemage}
 
 \chapter{Prestige Classes}
@@ -167,10 +169,12 @@
 
 \input{feats}
 
+\clearpage
 \section{Spells}
 
 \input{spells}
 
+\clearpage
 \section{Celestial Spheres}
 \quot{``In brightest day, in darkest night, no evil shall escape my sight.''}
 
@@ -183,7 +187,7 @@ Celestial Spheres function like Fiendish Spheres, except that they are associate
 \input{spheres}
 \end{multicols}
 
-\chapter{It's a Miracle!}
+\section{It's a Miracle!}
 
 Much like \spell{wish}, \spell{miracle} is a problematic spell that makes us sad. Not because it's open-ended in a way that encourages player creativity, we're all for that. It's because it is more accurately titled ``invoke DM fiat''. You are very specifically spending a 9th level spell slot and 5,000 experience points to \emph{trick the DM into breaking the game for you}. And that needs fixing just as much as something which explicitly lets you break the game does.
 

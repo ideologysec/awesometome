@@ -1,75 +1,40 @@
 \contentsline {chapter}{\numberline {1}Power Sources}{4}{chapter.1}
 \contentsline {chapter}{\numberline {2}The Physics of Magic}{5}{chapter.2}
 \contentsline {chapter}{\numberline {3}Classes}{6}{chapter.3}
-\contentsline {section}{\numberline {3.1}Warmage}{6}{section.3.1}
-\contentsline {chapter}{\numberline {4}Bonus Core Classes}{11}{chapter.4}
-\contentsline {section}{\numberline {4.1}Elementalist}{11}{section.4.1}
-\contentsline {section}{\numberline {4.2}Fire Mage}{13}{section.4.2}
-\contentsline {section}{\numberline {4.3}Puppeteer}{15}{section.4.3}
-\contentsline {section}{\numberline {4.4}Snowscaper}{17}{section.4.4}
-\contentsline {chapter}{\numberline {5}Prestige Classes}{20}{chapter.5}
-\contentsline {section}{\numberline {5.1}Arcane Strategist}{20}{section.5.1}
-\contentsline {section}{\numberline {5.2}Big Nob}{22}{section.5.2}
-\contentsline {section}{\numberline {5.3}Crusader of the Elemental Forces}{23}{section.5.3}
-\contentsline {section}{\numberline {5.4}Dragoon}{24}{section.5.4}
-\contentsline {section}{\numberline {5.5}Maelstrom of Fiery Ki}{26}{section.5.5}
-\contentsline {chapter}{\numberline {6}Feats/Spells/Spheres}{28}{chapter.6}
-\contentsline {section}{\numberline {6.1}Feats}{28}{section.6.1}
-\contentsline {subsubsection}{Elemental Feats}{28}{section*.2}
-\contentsline {section}{\numberline {6.2}Spells}{32}{section.6.2}
-\contentsline {section}{\numberline {6.3}Elemental Spheres}{32}{section.6.3}
-\contentsline {chapter}{\numberline {7}Elemental Denizens}{35}{chapter.7}
-\contentsline {section}{\numberline {7.1}Dragons}{35}{section.7.1}
-\contentsline {section}{\numberline {7.2}Half Dragon}{35}{section.7.2}
-\contentsline {section}{\numberline {7.3}Elementals}{36}{section.7.3}
-\contentsline {subsubsection}{Elemental-Bodied}{36}{section*.3}
-\contentsline {section}{\numberline {7.4}Elemental Brute}{37}{section.7.4}
-\contentsline {section}{\numberline {7.5}Elemental Weird}{38}{section.7.5}
-\contentsline {section}{\numberline {7.6}Genies}{40}{section.7.6}
-\contentsline {subsubsection}{Genasi}{40}{section*.5}
-\contentsline {section}{\numberline {7.7}Genie}{40}{section.7.7}
-\contentsline {chapter}{\numberline {8}Evocation Overhaul}{44}{chapter.8}
-\contentsline {chapter}{\numberline {9}High Adventure on the Inner Planes}{45}{chapter.9}
-\contentsline {section}{\numberline {9.1}High Adventure in the Inner Planes}{45}{section.9.1}
-\contentsline {subsection}{\numberline {9.1.1}High Adventure in\dots Acheron!}{45}{subsection.9.1.1}
-\contentsline {subsubsection}{Campaign Seed: The Tunnel to Pandemonium}{46}{section*.6}
-\contentsline {subsubsection}{Campaign Seed: You're in the Army Now}{46}{section*.7}
-\contentsline {subsubsection}{Ten Low Level Adventures in Acheron}{46}{section*.8}
-\contentsline {subsubsection}{Ten Mid Level Adventures in Acheron}{46}{section*.9}
-\contentsline {subsubsection}{Ten High Level Adventures in Acheron}{47}{section*.10}
-\contentsline {subsection}{\numberline {9.1.2}High Adventure in\dots Pandemonium!}{47}{subsection.9.1.2}
-\contentsline {subsubsection}{Campaign Seed: Life in the Big City}{47}{section*.11}
-\contentsline {subsubsection}{Campaign Seed: The Largest Dungeon}{48}{section*.12}
-\contentsline {subsubsection}{Ten Low Level Adventures in Pandemonium}{48}{section*.13}
-\contentsline {subsubsection}{Ten Mid Level Adventures in Pandemonium}{48}{section*.14}
-\contentsline {subsubsection}{Ten High Level Adventures in Pandemonium}{48}{section*.15}
-\contentsline {subsection}{\numberline {9.1.3}High Adventure in\dots Carceri!}{49}{subsection.9.1.3}
-\contentsline {subsubsection}{Campaign Seed: A Ring of Keys}{49}{section*.16}
-\contentsline {subsubsection}{Campaign Seed: Escape from Tartarus}{49}{section*.17}
-\contentsline {subsubsection}{Ten Low Level Adventures in Carceri}{49}{section*.18}
-\contentsline {subsubsection}{Ten Mid Level Adventures in Carceri}{50}{section*.19}
-\contentsline {subsubsection}{Ten High Level Adventures in Carceri}{50}{section*.20}
-\contentsline {subsection}{\numberline {9.1.4}High Adventure in\dots Hell!}{50}{subsection.9.1.4}
-\contentsline {subsubsection}{Campaign Seed: A Kafkaesque Nightmare}{50}{section*.21}
-\contentsline {subsubsection}{Campaign Seed: Law of the West}{51}{section*.22}
-\contentsline {subsubsection}{Ten Low Level Adventures in Hell}{51}{section*.23}
-\contentsline {subsubsection}{Ten Mid Level Adventures in Hell}{51}{section*.24}
-\contentsline {subsubsection}{Ten High Level Adventures in Hell}{52}{section*.25}
-\contentsline {subsection}{\numberline {9.1.5}High Adventure in\dots The Abyss!}{52}{subsection.9.1.5}
-\contentsline {subsubsection}{Campaign Seed: We're the Exotic Products Trading Company (Abyssal Branch!)}{52}{section*.26}
-\contentsline {subsubsection}{Campaign Seed: Pirates of the River Styx!}{52}{section*.27}
-\contentsline {subsubsection}{Ten Low Level Adventures in The Abyss}{52}{section*.28}
-\contentsline {subsubsection}{Ten Mid Level Adventures in The Abyss}{53}{section*.29}
-\contentsline {subsubsection}{Ten High Level Adventures in The Abyss}{53}{section*.30}
-\contentsline {subsection}{\numberline {9.1.6}High Adventure in\dots Gehenna!}{54}{subsection.9.1.6}
-\contentsline {subsubsection}{Campaign Seed: The Yugoloths Want You!}{54}{section*.31}
-\contentsline {subsubsection}{Campaign Seed: The Grand Game in the Crawling City}{54}{section*.32}
-\contentsline {subsubsection}{Ten Low Level Adventures in Gehenna}{55}{section*.33}
-\contentsline {subsubsection}{Ten Mid Level Adventures in Gehenna}{55}{section*.34}
-\contentsline {subsubsection}{Ten High Level Adventures in Gehenna}{56}{section*.35}
-\contentsline {subsection}{\numberline {9.1.7}High Adventure in\dots Hades!}{56}{subsection.9.1.7}
-\contentsline {subsubsection}{Campaign Seed: The End of Oasis}{57}{section*.36}
-\contentsline {subsubsection}{Campaign Seed: A World At War}{57}{section*.37}
-\contentsline {subsubsection}{Ten Low Level Adventures in Hades}{57}{section*.38}
-\contentsline {subsubsection}{Ten Mid Level Adventures in Hades}{57}{section*.39}
-\contentsline {subsubsection}{Ten High Level Adventures in Hades}{58}{section*.40}
+\contentsline {section}{\numberline {3.1}Warlock}{6}{section.3.1}
+\contentsline {section}{\numberline {3.2}Warmage}{7}{section.3.2}
+\contentsline {chapter}{\numberline {4}Bonus Core Classes}{13}{chapter.4}
+\contentsline {section}{\numberline {4.1}Elementalist}{13}{section.4.1}
+\contentsline {section}{\numberline {4.2}Fire Mage}{15}{section.4.2}
+\contentsline {section}{\numberline {4.3}Puppeteer}{17}{section.4.3}
+\contentsline {section}{\numberline {4.4}Snowscaper}{19}{section.4.4}
+\contentsline {chapter}{\numberline {5}Prestige Classes}{22}{chapter.5}
+\contentsline {section}{\numberline {5.1}Arcane Strategist}{22}{section.5.1}
+\contentsline {section}{\numberline {5.2}Big Nob}{24}{section.5.2}
+\contentsline {section}{\numberline {5.3}Crusader of the Elemental Forces}{25}{section.5.3}
+\contentsline {section}{\numberline {5.4}Dragoon}{26}{section.5.4}
+\contentsline {section}{\numberline {5.5}Meteor Ninja}{28}{section.5.5}
+\contentsline {section}{\numberline {5.6}Ogre Mage}{29}{section.5.6}
+\contentsline {chapter}{\numberline {6}Feats/Spells/Spheres}{31}{chapter.6}
+\contentsline {section}{\numberline {6.1}Feats}{31}{section.6.1}
+\contentsline {subsubsection}{Elemental Feats}{31}{section*.2}
+\contentsline {section}{\numberline {6.2}Spells}{35}{section.6.2}
+\contentsline {section}{\numberline {6.3}Elemental Spheres}{35}{section.6.3}
+\contentsline {chapter}{\numberline {7}Elemental Denizens}{38}{chapter.7}
+\contentsline {section}{\numberline {7.1}Dragons: The Hoarding}{38}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Half Dragon}{38}{subsection.7.1.1}
+\contentsline {section}{\numberline {7.2}Elementals}{39}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Elemental-Bodied}{39}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}Elemental Brute}{40}{subsection.7.2.2}
+\contentsline {subsection}{\numberline {7.2.3}Elemental Weird}{42}{subsection.7.2.3}
+\contentsline {section}{\numberline {7.3}Genies}{43}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}Genasi}{43}{subsection.7.3.1}
+\contentsline {section}{\numberline {7.4}Genie}{44}{section.7.4}
+\contentsline {chapter}{\numberline {8}Evocation Overhaul}{47}{chapter.8}
+\contentsline {chapter}{\numberline {9}High Adventure on the Inner Planes}{48}{chapter.9}
+\contentsline {section}{\numberline {9.1}High Adventure in\dots The Plane of Air!}{48}{section.9.1}
+\contentsline {section}{\numberline {9.2}High Adventure in\dots The Plane of Earth!}{48}{section.9.2}
+\contentsline {section}{\numberline {9.3}High Adventure in\dots The Plane of Fire!}{50}{section.9.3}
+\contentsline {section}{\numberline {9.4}High Adventure in\dots The Plane of Water!}{53}{section.9.4}
+\contentsline {section}{\numberline {9.5}High Adventure in\dots The Positive Energy Plane!}{53}{section.9.5}
+\contentsline {section}{\numberline {9.6}High Adventure in\dots The Negative Energy Plane!}{53}{section.9.6}

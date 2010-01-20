@@ -61,14 +61,17 @@
 \contentsline {subsection}{\numberline {8.2.1}Controlling Constructs: Robot Armies and Statuary Servants}{43}{subsection.8.2.1}
 \contentsline {subsection}{\numberline {8.2.2}Specific Constructs Under the New Rules}{44}{subsection.8.2.2}
 \contentsline {subsubsection}{Simulacrum}{44}{section*.14}
+\contentsline {subsection}{\numberline {8.2.3}Other Constructed Entities}{45}{subsection.8.2.3}
+\contentsline {subsubsection}{Robot Girl}{45}{section*.15}
 \contentsline {section}{\numberline {8.3}Denizens of the Planes of Law}{45}{section.8.3}
-\contentsline {subsection}{\numberline {8.3.1}Modrons: Singularity of Purpose}{45}{subsection.8.3.1}
-\contentsline {subsection}{\numberline {8.3.2}Inevitables: Enforcing Natural Law}{46}{subsection.8.3.2}
-\contentsline {subsection}{\numberline {8.3.3}Formians: In Many, One}{46}{subsection.8.3.3}
+\contentsline {subsection}{\numberline {8.3.1}Modrons: Singularity of Purpose}{46}{subsection.8.3.1}
+\contentsline {subsection}{\numberline {8.3.2}Inevitables: Enforcing Natural Law}{47}{subsection.8.3.2}
+\contentsline {subsection}{\numberline {8.3.3}Formians: In Many, One}{47}{subsection.8.3.3}
 \contentsline {chapter}{\numberline {9}Mechanics with Class}{48}{chapter.9}
-\contentsline {chapter}{\numberline {10}Mechanics with Prestige}{49}{chapter.10}
-\contentsline {section}{\numberline {10.1}Golem-Knight of Mechanus}{49}{section.10.1}
-\contentsline {chapter}{\numberline {11}High Adventure on the Cordant Planes}{52}{chapter.11}
-\contentsline {section}{\numberline {11.1}High Adventure in... Mechanus!}{52}{section.11.1}
-\contentsline {section}{\numberline {11.2}High Adventure in... The Outlands!}{52}{section.11.2}
-\contentsline {section}{\numberline {11.3}High Adventure in... Limbo!}{52}{section.11.3}
+\contentsline {section}{\numberline {9.1}Monster Tamer}{48}{section.9.1}
+\contentsline {chapter}{\numberline {10}Mechanics with Prestige}{53}{chapter.10}
+\contentsline {section}{\numberline {10.1}Golem-Knight of Mechanus}{53}{section.10.1}
+\contentsline {chapter}{\numberline {11}High Adventure on the Cordant Planes}{56}{chapter.11}
+\contentsline {section}{\numberline {11.1}High Adventure in... Mechanus!}{56}{section.11.1}
+\contentsline {section}{\numberline {11.2}High Adventure in... The Outlands!}{56}{section.11.2}
+\contentsline {section}{\numberline {11.3}High Adventure in... Limbo!}{56}{section.11.3}
