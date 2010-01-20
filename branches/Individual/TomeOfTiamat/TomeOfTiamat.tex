@@ -49,10 +49,16 @@
 \newcommand{\shortability}[2]{\noindent\textbf{#1} #2\\}
 \newcommand{\bolded}[1]{\noindent\textbf{#1}}
 \newcommand{\itemability}[2]{\item \textbf{#1} #2}
-\newcommand{\featname}[1]{\vspace*{0.1cm plus 0.2cm minus 0.05cm}\noindent\textbf{#1}\\}
+\newcommand{\featname}[2]{\vspace*{0.1cm plus 0.2cm minus 0.05cm}\noindent\textbf{#1}
+
+#2}
 \newcommand{\featnamelist}[1]{\vspace*{0.1cm plus 0.2cm minus 0.05cm}\noindent\textbf{#1}}
 
-\newcommand{\descfeat}[2]{\featname{#1}\emph{#2}\\}
+\newcommand{\descfeat}[3]{\featname{#1}
+
+\emph{#2}
+
+#3}
 
 \newcommand{\classname}[1]{\section{#1}}
 \newcommand{\condition}[1]{\emph{#1}}
@@ -161,7 +167,8 @@
 \input{prestige/bignob}
 \input{prestige/crusaderelemental}
 \input{prestige/dragoon}
-\input{prestige/maelstrom}
+\input{prestige/meteorninja}
+\input{prestige/ogremage}
 
 \chapter{Feats/Spells/Spheres}
 
@@ -174,12 +181,12 @@
 \section{Elemental Spheres}
 \quot{``Let our powers combine.''}
 
-Elemental Spheres function like Fiendish Spheres, except that each one is associated with one or more of the Elements. An Elemental Weird taking an Elemental Sphere must be a Weird of the same element as the Sphere. It is reccomended that Genies follow these same rules (yes, this is a nerf, to keep them thematically appropriate. While it is a cute trick to take the Cold sphere on your Efreeti to gain immunity to Cold and offset your Vulnerability with already being immune, it's not really thematically appropriate to have an Efreeti better at Cone of Cold than it is at Fireball). Note that Magma has no spheres listed for it. This is intentional; it can draw Spheres from both the Earth and Fire lists. Spheres listed with Fiend as an element are new, and can be taken as a Fiendish Sphere.
+Elemental Spheres function like Fiendish Spheres, except that each one is associated with one or more of the Elements. An Elemental Weird taking an Elemental Sphere must be a Weird of the same element as the Sphere. It is reccomended that Genies follow these same rules (yes, this is a nerf, to keep them thematically appropriate. While it is a cute trick to take the Cold sphere on your Efreet to gain immunity to Cold and offset your Vulnerability with already being immune, it's not really thematically appropriate to have an Efreet better at Cone of Cold than it is at Fireball). Note that Magma has no spheres listed for it. This is intentional; it can draw Spheres from both the Earth and Fire lists, and the same goes for other ``paraelemental'' types. Spheres listed with Fiend as an element can be taken as a Fiendish Sphere as well.
 
 \newcommand{\sphere}[9]{\begin{list}{}{\itemspace}\item \textbf{1:} \spell{#1} \item \textbf{3:} \spell{#2} \item \textbf{5:} \spell{#3} \item \textbf{7:} \spell{#4} \item \textbf{9:} \spell{#5} \item \textbf{11:} \spell{#6} \item \textbf{13:} \spell{#7} \item \textbf{15:} \spell{#8} \item \textbf{17:} \spell{#9}}
 \newcommand{\spherecont}[1]{\item\textbf{19:} \spell{#1} \end{list}\medskip}
 
-Any unlisted parts of a Sphere (such as its granted ability or spell list) use the Fiendish Sphere of the same name. 
+Any Sphere with unlisted portions (such as its granted ability or spell list) uses the Fiendish Sphere of the same name.
 
 \begin{multicols}{2}
 \input{spheres}
@@ -187,9 +194,7 @@ Any unlisted parts of a Sphere (such as its granted ability or spell list) use t
 
 \chapter{Elemental Denizens}
 
-\section{Dragons}
-
-\input{baseclasses/halfdragon}
+\input{dragons}
 
 \section{Elementals}
 
