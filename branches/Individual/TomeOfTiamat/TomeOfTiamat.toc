@@ -36,5 +36,5 @@
 \contentsline {section}{\numberline {9.2}High Adventure in\dots The Plane of Earth!}{48}{section.9.2}
 \contentsline {section}{\numberline {9.3}High Adventure in\dots The Plane of Fire!}{50}{section.9.3}
 \contentsline {section}{\numberline {9.4}High Adventure in\dots The Plane of Water!}{53}{section.9.4}
-\contentsline {section}{\numberline {9.5}High Adventure in\dots The Positive Energy Plane!}{53}{section.9.5}
-\contentsline {section}{\numberline {9.6}High Adventure in\dots The Negative Energy Plane!}{53}{section.9.6}
+\contentsline {section}{\numberline {9.5}High Adventure in\dots The Positive Energy Plane!}{55}{section.9.5}
+\contentsline {section}{\numberline {9.6}High Adventure in\dots The Negative Energy Plane!}{57}{section.9.6}
