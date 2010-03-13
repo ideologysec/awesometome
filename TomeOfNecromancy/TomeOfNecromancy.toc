@@ -14,52 +14,53 @@
 \contentsline {subsection}{\numberline {1.4.3}Create Undead}{8}{subsection.1.4.3}
 \contentsline {chapter}{\numberline {2}Necromancy with Class}{9}{chapter.2}
 \contentsline {section}{\numberline {2.1}Corpselight Whisperer}{9}{section.2.1}
-\contentsline {section}{\numberline {2.2}Uttercold Assault Necromancer}{10}{section.2.2}
+\contentsline {section}{\numberline {2.2}Uttercold Assault Necromancer}{11}{section.2.2}
 \contentsline {section}{\numberline {2.3}The Boneblade Reaper}{13}{section.2.3}
 \contentsline {section}{\numberline {2.4}The Boneblade Reaper, Dungeonomicon Monk Version}{15}{section.2.4}
 \contentsline {section}{\numberline {2.5}Skindancer}{17}{section.2.5}
-\contentsline {section}{\numberline {2.6}Stranger with the Burning Eyes}{18}{section.2.6}
+\contentsline {section}{\numberline {2.6}Stranger with the Burning Eyes}{19}{section.2.6}
 \contentsline {section}{\numberline {2.7}Master of the Seven Necromantic Mysteries}{20}{section.2.7}
-\contentsline {section}{\numberline {2.8}Death King}{21}{section.2.8}
-\contentsline {section}{\numberline {2.9}Widow Queen}{22}{section.2.9}
-\contentsline {section}{\numberline {2.10}Bone Rider}{23}{section.2.10}
-\contentsline {section}{\numberline {2.11}Thief of Souls}{25}{section.2.11}
-\contentsline {section}{\numberline {2.12}Soul Merchant}{26}{section.2.12}
-\contentsline {section}{\numberline {2.13}Lurker in the Swarm}{27}{section.2.13}
-\contentsline {section}{\numberline {2.14}Heartless Mage}{29}{section.2.14}
-\contentsline {section}{\numberline {2.15}Speaker for the Dead}{30}{section.2.15}
-\contentsline {section}{\numberline {2.16}Lord of the Damned}{32}{section.2.16}
-\contentsline {section}{\numberline {2.17}Pumpkin King}{33}{section.2.17}
-\contentsline {chapter}{\numberline {3}Necromancers with Style}{35}{chapter.3}
-\contentsline {section}{\numberline {3.1}Necromantic Creation Feats:}{35}{section.3.1}
-\contentsline {section}{\numberline {3.2}[Undead] Feats}{35}{section.3.2}
-\contentsline {chapter}{\numberline {4}The Necronomicon}{38}{chapter.4}
-\contentsline {section}{\numberline {4.1}The [Healing] subschool:}{38}{section.4.1}
-\contentsline {chapter}{\numberline {5}New Rules}{42}{chapter.5}
-\contentsline {section}{\numberline {5.1}Subtypes}{42}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Dark Minded (subtype)}{42}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}Unliving (subtype)}{43}{subsection.5.1.2}
-\contentsline {section}{\numberline {5.2}Undead and Aging}{43}{section.5.2}
-\contentsline {section}{\numberline {5.3}Becoming Undead}{43}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Revenants}{43}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}Vampires}{44}{subsection.5.3.2}
-\contentsline {section}{\numberline {5.4}Vampire Paragon Class}{44}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Ghouls}{45}{subsection.5.4.1}
-\contentsline {section}{\numberline {5.5}Ghoul Paragon}{45}{section.5.5}
-\contentsline {subsection}{\numberline {5.5.1}Swordwraith}{46}{subsection.5.5.1}
-\contentsline {section}{\numberline {5.6}Swordwraith Paragon}{46}{section.5.6}
-\contentsline {section}{\numberline {5.7}Locations of Necromantic Importance}{47}{section.5.7}
-\contentsline {subsection}{\numberline {5.7.1}Necromantic Intelligence}{47}{subsection.5.7.1}
-\contentsline {subsubsection}{Aspected Necromantic Intelligence}{47}{section*.3}
-\contentsline {subsubsection}{Cleansing the Focus}{48}{section*.4}
-\contentsline {subsection}{\numberline {5.7.2}Tombs}{48}{subsection.5.7.2}
-\contentsline {subsection}{\numberline {5.7.3}Forsaken Graveyards}{48}{subsection.5.7.3}
-\contentsline {subsection}{\numberline {5.7.4}Pools of Deep Shadow}{48}{subsection.5.7.4}
-\contentsline {subsection}{\numberline {5.7.5}Finality}{49}{subsection.5.7.5}
-\contentsline {section}{\numberline {5.8}Necromantic Equipment}{49}{section.5.8}
-\contentsline {subsection}{\numberline {5.8.1}New Materials}{49}{subsection.5.8.1}
-\contentsline {chapter}{\numberline {6}Monsters}{51}{chapter.6}
-\contentsline {section}{\numberline {6.1}Artificial Intelligence}{51}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Crawling Darkness}{51}{subsection.6.1.1}
-\contentsline {subsection}{\numberline {6.1.2}Playing with Fire}{52}{subsection.6.1.2}
-\contentsline {subsection}{\numberline {6.1.3}Previously Published Monsters}{52}{subsection.6.1.3}
+\contentsline {section}{\numberline {2.8}Death King}{22}{section.2.8}
+\contentsline {section}{\numberline {2.9}Widow Queen}{23}{section.2.9}
+\contentsline {section}{\numberline {2.10}Bone Rider}{24}{section.2.10}
+\contentsline {section}{\numberline {2.11}Thief of Souls}{26}{section.2.11}
+\contentsline {section}{\numberline {2.12}Soul Merchant}{27}{section.2.12}
+\contentsline {section}{\numberline {2.13}Lurker in the Swarm}{29}{section.2.13}
+\contentsline {section}{\numberline {2.14}Heartless Mage}{31}{section.2.14}
+\contentsline {section}{\numberline {2.15}Speaker for the Dead}{32}{section.2.15}
+\contentsline {section}{\numberline {2.16}Lord of the Damned}{33}{section.2.16}
+\contentsline {section}{\numberline {2.17}Pumpkin King}{35}{section.2.17}
+\contentsline {chapter}{\numberline {3}Necromancers with Style}{37}{chapter.3}
+\contentsline {section}{\numberline {3.1}Necromantic Creation Feats:}{37}{section.3.1}
+\contentsline {section}{\numberline {3.2}[Undead] Feats}{37}{section.3.2}
+\contentsline {chapter}{\numberline {4}The Necronomicon}{41}{chapter.4}
+\contentsline {section}{\numberline {4.1}The [Healing] subschool:}{41}{section.4.1}
+\contentsline {section}{\numberline {4.2}New Necromancy spells:}{41}{section.4.2}
+\contentsline {chapter}{\numberline {5}New Rules}{45}{chapter.5}
+\contentsline {section}{\numberline {5.1}Subtypes}{45}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Dark Minded (subtype)}{45}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Unliving (subtype)}{46}{subsection.5.1.2}
+\contentsline {section}{\numberline {5.2}Undead and Aging}{46}{section.5.2}
+\contentsline {section}{\numberline {5.3}Becoming Undead}{46}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Revenants}{46}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Vampires}{47}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Vampire Paragon Class}{47}{subsection.5.3.3}
+\contentsline {subsection}{\numberline {5.3.4}Ghouls}{48}{subsection.5.3.4}
+\contentsline {subsection}{\numberline {5.3.5}Ghoul Paragon}{49}{subsection.5.3.5}
+\contentsline {subsection}{\numberline {5.3.6}Swordwraith}{49}{subsection.5.3.6}
+\contentsline {subsection}{\numberline {5.3.7}Swordwraith Paragon}{50}{subsection.5.3.7}
+\contentsline {section}{\numberline {5.4}Locations of Necromantic Importance}{50}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Necromantic Intelligence}{50}{subsection.5.4.1}
+\contentsline {subsubsection}{Aspected Necromantic Intelligence}{51}{section*.3}
+\contentsline {subsubsection}{Cleansing the Focus}{51}{section*.4}
+\contentsline {subsection}{\numberline {5.4.2}Tombs}{51}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}Forsaken Graveyards}{51}{subsection.5.4.3}
+\contentsline {subsection}{\numberline {5.4.4}Pools of Deep Shadow}{52}{subsection.5.4.4}
+\contentsline {subsection}{\numberline {5.4.5}Finality}{52}{subsection.5.4.5}
+\contentsline {section}{\numberline {5.5}Necromantic Equipment}{53}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}New Materials}{53}{subsection.5.5.1}
+\contentsline {chapter}{\numberline {6}Monsters}{54}{chapter.6}
+\contentsline {section}{\numberline {6.1}Artificial Intelligence}{54}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Crawling Darkness}{54}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Playing with Fire}{55}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Previously Published Monsters}{55}{subsection.6.1.3}
