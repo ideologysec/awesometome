@@ -13,8 +13,22 @@ The only _code_ we are arguably writing is new definitions for LaTeX functions (
 
 Currently, our "code" is licensed under the GPL and our content is licensed under the CC BY-SA license.
 
+For the purposes of this discussion, "original authors" refers specifically to anyone who has contributed content or code to this project, as stated in the credits.tex file.
+
 = What You May Do with the Tomes as they stand: =
 
 You may:
 
-Freely copy and distribute both the unmodified source code and the compiled PDF files, in any manner that you like, as long you credit the original authors (For this purpose, since the credits included in the PDF and source cannot be removed without modifying the work, distributing the work unmodified suffices to give credit to the authors.) The original authors
+Freely copy and distribute both the unmodified source code and the compiled PDF files, in any manner that you like, as long you credit the original authors. Distributing the source code and/or PDF unmodified suffices in most cases, as the credits are included in the source. If you provide links to download either the source code or the compiled PDF, you must also provide a link to this page, and optionally the Gaming Den.
+
+Freely modify the source code and distribute it, as long as you make clear that this is not an officially sanctioned fork of this project, unless you have gotten prior permission to ignore this requirement. If you modify and redistribute the source code from this project, you must link back to this page and provide credit to the original authors. It is not required that you backport changes that you make to the code base upstream, but it is recommended and encouraged.
+
+
+
+
+
+= What Needs to Happen =
+
+If we are looking at having this manual be a serious publication at any point in the future, contributors, whether here or at the Gaming Den, need to be willing to have their contributions released under the CC BY-SA license.
+
+Alternatively, people need to propose an alternate licensing scheme that this can be released under, though my understanding is that Frank is perfectly happy with CC licensing.
