@@ -5,9 +5,16 @@
 This is a page that I am starting to clarify what portions of the Tomes are licensed under which code, since there are several portions of it, and because of where we are hosting this project.
 
 
-= LaTeX =
+= Google Code Hosting =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Google Code hosting is primarily intended for the hosting of projects that are creating new code; this project is rather concerned with using existing code (the LaTeX distribution) to publish new _content_. Google allows for several types of code licensing, including GPL, BSD, Apache, and others, but only two types of content licensing: Creative Commons SA, and Creative Commons BY-SA.
+
+The only _code_ we are arguably writing is new definitions for LaTeX functions (\half, \third, etc), but this is a minor portion of our effort. Since we are not explicitly releasing these separately, they arguably are a part of the Work as whole.
+
+Currently, our "code" is licensed under the GPL and our content is licensed under the CC BY-SA license.
+
+= What You May Do with the Tomes as they stand: =
+
+You may:
+
+Freely copy and distribute both the unmodified source code and the compiled PDF files, in any manner that you like, as long you credit the original authors (For this purpose, since the credits included in the PDF and source cannot be removed without modifying the work, distributing the work unmodified suffices to give credit to the authors.) The original authors
