@@ -1,0 +1,13 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+This is a page that I am starting to clarify what portions of the Tomes are licensed under which code, since there are several portions of it, and because of where we are hosting this project.
+
+
+= LaTeX =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
