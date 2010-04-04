@@ -1,0 +1,34 @@
+#summary What we intend to do with the PDF.
+
+= Breaking the PDF up=
+
+The PDF is getting huge, as you've pointed out, and is getting to the point where it might be beneficial to break it up into multiple PDF's.  The good thing is it's easy to do that.
+
+
+= Suggested PDFs =
+
+1. Tome Essentials
+    * Would include just the basics, and would be meant to be printed out and used alongside the SRD or a hard copy of the DMG and PHB.
+    * Would only have the bare bones Tome features.  Races, Tome Core Base Classes (Whatever we decide those are), Feats and Combat (since thats changed so much from the SRD, and is pretty central to The Tomes). 
+    * Would _not_ have PRCs, Magic Items (since straight up 3.5 actually does work with Tome), or Frank's rants.
+    * Good for printing out.
+  
+2. Tome Core
+    * Would include everything you could need to run a game, without needing to go to the SRD or PHB.
+    * Includes Basics, Character Creation, Races (and not just the unusual ones), Alignment, Tome Core Base Classes, Feats, Magic, and Magic items.
+    * Essentially cuts out the fuckton of base classes and PRCs, Franks rants, etc.
+    * Also Good for printing out.
+
+3. Tome Supplement
+    * Includes the rules that don't get into core.
+    * Extra Base classes and PRCs
+    * Community rules alternatives (alternate skill system, weapon sizing, etc).
+
+4. Tome Complete
+    * Essentially what we have now, everything in one honking PDF.
+
+== But Before We Do That... ==
+
+Before we start this, we should probably comb over our current material at least once over.  Standardize formatting, Fix any problems with classes that are partially formated, etc.
+
+We also need to decide what classes are the "Core" classes.  The list in the current PDF is pretty good, except the rogue.  The rogue is inferior in every way to a Thief Acrobat.  I'd say it gets replaced.
