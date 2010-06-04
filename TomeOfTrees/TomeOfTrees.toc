@@ -22,6 +22,8 @@
 \contentsline {section}{\numberline {5.2}Spells}{34}{section.5.2}
 \contentsline {chapter}{\numberline {6}Enchantment in D\&D}{35}{chapter.6}
 \contentsline {chapter}{\numberline {7}Fey}{36}{chapter.7}
-\contentsline {section}{\numberline {7.1}Faerie Spheres}{36}{section.7.1}
-\contentsline {chapter}{\numberline {8}Plant Monsters}{37}{chapter.8}
-\contentsline {chapter}{\numberline {9}Wilderness Adventure}{38}{chapter.9}
+\contentsline {section}{\numberline {7.1}Blood Flows Like Sap: Playable Races}{36}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}The Fey Touched}{36}{subsection.7.1.1}
+\contentsline {section}{\numberline {7.2}Faerie Spheres}{37}{section.7.2}
+\contentsline {chapter}{\numberline {8}Plant Monsters}{38}{chapter.8}
+\contentsline {chapter}{\numberline {9}Wilderness Adventure}{39}{chapter.9}
