@@ -1,0 +1,60 @@
+= How Many Of These Are Done? =
+
+Dungeonomicon 
+
+"Charactonomicon/Why no Open Lock skills?" section missing. 
+"Castles and Manors" title should be larger. 
+"Spellbooks" should be in the Magic chapter (IMO). 
+Remove "Open Lock" from the skill lists. 
+The following subtitles are missing for no discernible reason: "Heroes in the Greek Sense", "Making Sense of the Gold Standard", "The G of Life Continues", "Diversity in Top Predators", "Things to Talk About" 
+
+--- 
+
+Races of War 
+
+Shouldn't "Forward" be "Foreword"? 
+"Powerful Monsters As PCs, or 'Beholder Mages That Don’t Make Us Cry.'" was a title. 
+"Warriors with Class" section missing - important for the "some classes are short" explanation, though I actually don't see why the knight couldn't have 20 levels. 
+Preview Dragon and Sample Units missing. 
+
+--- 
+
+Tome of Fiends 
+
+In "How Black is the Night", a colon's missing after "Necromancy". 
+The CoC sections for Barbarian/Knight/Monk are anachronic now (but maybe they could be left as examples if the reference to PHB classes is emphasized). 
+In Fiendish PrCs, the "Here are some classes ..." reads exceedingly strangely because obviously the classes aren't right there. 
+Broker of the Infernal uses "as shown below" because there was a table, that wasn't ported - and it's actually better to say "at least half their CR" and forget it. 
+Burning Pits of Rebirth section missing. 
+"Assuming the Face of Evil" subtitle missing. 
+
+--- 
+
+Tome of Necromancy 
+
+The Introduction, as all others, should be trashed. 
+"Implications", after the Moral Options, should be larger. 
+Necromantic PrCs: "to use" should have no colon due to its position. 
+"necromatic" appears at multiple places in the file. 
+"The [Healing] subschool:" was bolded. 
+Locations of Necromantic Importance should be in the Adventures chapter (IMO). 
+Finality was repeated in the ToF, with a more complete text, so delete it from Locations of Necromantic Importance, because it's already elsewhere. 
+Necromantic Equipment missing (I do know it's not a trivial inclusion). 
+
+
+--- 
+
+Book of Gears 
+The Modrons have an uniformly more complete writeup here. 
+The following subtitles are missing for no discernible reason: "Swag That You Brag About", "It Was Like This When We Found It", "Spending the Loot", "Bat Caves & Black Holes". 
+
+--- 
+
+The "Preview" in Feytouched makes no sense anymore. 
+High Adventure in Ysgard and Blood Flows Like Sap from the previews in the ToF thread, missing (but they aren't trivial either). 
+The ToV preview here also is an entire readable section, and has been variously solicited, so I can only figure it might merit inclusion. The rogue, on the other hand, isn't feasible. 
+
+--- 
+
+Marshal still has the BAB error. 
+The shadow warrior's spell is blacklight, not darklight (though the author of the mistake, incidentally, is myself ).
