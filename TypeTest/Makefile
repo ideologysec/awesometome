@@ -1,5 +1,5 @@
 SOURCES = 
-	SOURCES = advcombat.tex \
+	SOURCES = #advcombat.tex \
 	alignment.tex \
 	alt.traits.tex \
 	armor.tex \
@@ -14,7 +14,8 @@ SOURCES =
 	dungeons.tex \
 	economics.tex \
 	elementalfeats.tex \
-	entire.tex \
+	entire-web.tex \
+	entire-print.tex \
 	feats.tex \
 	FiendClasses.tex \
 	fiendishrules.tex \
@@ -38,7 +39,6 @@ SOURCES =
 	social.tex \
 	specialabilities.tex \
 	#spells.tex \
-	total.tex \
 	undeadmonsters.tex \
 	undead.tex \
 	underdark.tex \
@@ -60,6 +60,7 @@ SOURCES =
 	baseclasses/community/kantianpaladin.tex \
 	baseclasses/knight.tex \
 	baseclasses/marshal.tex \
+	#baseclasses/community/mechanuswarrior.tex \
 	baseclasses/monk.tex \
 	baseclasses/puppeteer.tex \
 	baseclasses/samurai.tex \
@@ -139,18 +140,30 @@ SOURCES =
 
 
 	
-all: entire.pdf
+#all: entire.pdf
+#.PHONY: clean
 
-entire.pdf: $(SOURCES)
+entire-web.pdf: $(SOURCES)
 	# Needs 3 passes to get everything correct.
-	xelatex entire.tex
-	xelatex entire.tex
-	xelatex entire.tex
+	xelatex entire-web.tex
+	xelatex entire-web.tex
+	xelatex entire-web.tex
+	
+entire-print.pdf: $(SOURCES)
+	# Needs 3 passes to get everything correct.
+	xelatex entire-print.tex
+	xelatex entire-print.tex
+	xelatex entire-print.tex	
 
 clean:
-	rm -f entire.aux entire.log entire.out entire.pdf entire.toc
+	rm -f *aux *log *out *pdf *toc 
+	
+web: entire-web.pdf
 
-.PHONY: clean
+print: entire-print.pdf
 
-complete:
-	make clean && make && cp entire.pdf ../TomeTesting.pdf && make clean
+web-complete:
+	make clean && make web && cp entire-web.pdf ../Tome\ Web.pdf && make clean
+	
+print-complete:
+	make clean && make print && cp entire-print.pdf ../Tome\ Print.pdf && make clean
