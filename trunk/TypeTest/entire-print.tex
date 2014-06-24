@@ -1,24 +1,21 @@
 \documentclass[10pt]{report}
 
-%\usepackage{appendix}
-%\usepackage{isoent}    %\sfrac
-%\usepackage{palatino} %font
-%\usepackage{newcent}   %font
 
 \usepackage{floatflt}
 \usepackage{fancyhdr}
 \usepackage{textcomp}
 \usepackage{wrapfig}
-\usepackage[usenames]{color}
+\usepackage[usenames]{xcolor}
 \usepackage{xfrac}    %\sfrac
 \usepackage{sectsty} %custom section headings
 \usepackage[Bjarne]{fncychap} %Canned chapter headings
 \usepackage{multicol}
-\usepackage[bookmarks=true,colorlinks,linkcolor=cyan,breaklinks]{hyperref}
 \usepackage{units} %(nice fractions)
-
+\usepackage{indentfirst}
 \usepackage{fontspec}
-%\setmainfont{Adobe Caslon Pro}
+\usepackage[bookmarks=true,colorlinks,linkcolor=black,breaklinks]{hyperref}
+
+\definecolor{linkblue}{HTML}{2A5DB0}
 \setmainfont{Adobe Garamond Pro}
 
 \newcommand{\normalsections}{
@@ -107,8 +104,6 @@
 	\minitabular{\raggedleft\textbf{\small 19:} &{\small #8}}
 }
 
-\newcommand{\boxit}[1]{\frame{\parbox{\textwidth}{#1}}}
-
 % A new box command -- the first argument is the box's header, the second the 
 % contents of the box. This looks a lot better than \boxit. -Surgo
 \newcommand{\abox}[2]{\vspace{5pt}
@@ -136,11 +131,6 @@
 \newcommand{\fourth}[0]{\ensuremath{\sfrac{1}{4}} }
 
 \newcommand{\maneuver}[3]{\noindent\desc{\textbf{#1}\\\ability{Level:}{#2}\\#3}}
-
-
-%\rule{\textwidth}{0.005in}
-
-%\renewcommand{\sectionmark}[1]{\markright{\thesection\ \boldmath\emph{#1}\unboldmath}\\\rule{\textwidth}{0.005in}\\}
 
 \begin{document}
 
@@ -345,7 +335,7 @@
 \input{worldwar}
 \input{logistics}
 
-%\input{advcombat}This was all integrated into combat.tex and combatII.tex
+%\input{advcombat}This was all integrated into combat.tex and combat2.tex
 
 
 %%%%%%% Conditions & Special Abilities
