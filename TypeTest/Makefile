@@ -167,3 +167,6 @@ web-complete:
 	
 print-complete:
 	make clean && make print && cp entire-print.pdf ../Tome\ Print.pdf && make clean
+	
+full:
+	make clean && make print && make web && cp entire-print.pdf ../Tome\ Print.pdf && cp entire-web.pdf ../Tome\ Web.pdf && make clean
